@@ -46,7 +46,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "zxuuuustupid"
-  kaggle           : # Username  
+  kaggle           : "Zhixu Duan"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -57,14 +57,14 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "Zhixu Duan"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : ""
   telegram         : # URL
   tumblr           : # Username
   twitter          : "@Zhixu256069"
@@ -72,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "Zhixu Duan"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -80,7 +80,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
