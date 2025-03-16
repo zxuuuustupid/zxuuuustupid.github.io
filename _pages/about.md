@@ -8,15 +8,12 @@ redirect_from:
 ---
 Current
 ======
-### *I am looking for a M.S. at Tsinghua University!* ###
-
+***I am looking for a M.S. position at Tsinghua University!***
 
 
 Short Bio
 ======
-I am Zhixu Duan, an undergraduate at [SMEE](https://www.smee.uestc.edu.cn/) of [UESTC](https://www.uestc.edu.cn/), major in mechanical engineering.     
-    
-#### Researching In Center for system reliability and safety of UESTC, China     
+I am Zhixu Duan (段之续), an undergraduate at [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now researching in [**Center for system reliability and safety, China**](http://relialab.org/).    
 
 **Just a beginner in many areas.** Feel free to ask me about anything you want to know.   I’m currently researching on **fault detection of train tranmission systems with zero-fault sample** and now interested in Large Model (LM) !     
         
