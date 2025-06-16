@@ -1,7 +1,7 @@
 ---
 title: "Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/2025-6-16-paper-title-number-2
 excerpt: 'This paper is about fault detection of train transmission system with zero fault samples'
 date: 2025-06-16
