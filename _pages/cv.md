@@ -15,8 +15,8 @@ Education
 
 Honors
 ======
-&#9679; **National Scholarship** in 2024 (1.8%)   
-&#9679; Ranked **1/83** in my major   
+* **National Scholarship** in 2024 (1.8%)   
+* Ranked **1/83** in my major   
 
 Publications & Patents
 ======
@@ -26,11 +26,11 @@ Publications & Patents
   {% endfor %}</ul>
 
 ### Unpublished
-&#9679; Second author of a submitted manuscript to the **SCI Q1 journal** [***MSSP (Mechanical Systems and Signal Processing)***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)    
-&#9679; Second author of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII (Transactions on Industrial Informatics)***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)    
+* Second author of a submitted manuscript to the **SCI Q1 journal** [***MSSP (Mechanical Systems and Signal Processing)***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)    
+* Second author of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII (Transactions on Industrial Informatics)***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)    
 
 ### Patents
-&#9679; Second author of an invention patent (first author of adviser), accepted for **filing**.     
+* Second author of an invention patent (first author of adviser), accepted for **filing**.     
 
 
 
