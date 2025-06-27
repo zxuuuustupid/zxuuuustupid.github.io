@@ -74,31 +74,43 @@ Leadership
 ======
 ### Founding core member of UESTC Neuroscience Society.
 * Invited Professor [**Yao Dezong**](https://faculty.uestc.edu.cn/yaodezhong/en/index.htm) (Founding Dean of UESTC's School of Life Science and Technology) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](edro Antonio Valdes Sosa) as advisors    
-* to promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.
-  
+* to promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.    
+
+[//]: # ()
+[//]: # (  )
 [//]: # (Talks)
 
 [//]: # (======)
 
+[//]: # ()
 [//]: # (  <ul>{% for post in site.talks reversed %})
 
+[//]: # ()
 [//]: # (    {% include archive-single-talk-cv.html  %})
 
+[//]: # ()
 [//]: # (  {% endfor %}</ul>)
-  
+
+[//]: # (  )
 [//]: # (Teaching)
 
 [//]: # (======)
 
+[//]: # ()
 [//]: # (  <ul>{% for post in site.teaching reversed %})
 
+[//]: # ()
 [//]: # (    {% include archive-single-cv.html %})
 
+[//]: # ()
 [//]: # (  {% endfor %}</ul>)
-  
+
+[//]: # (  )
 [//]: # (Service and leadership)
 
 [//]: # (======)
 
+[//]: # ()
 [//]: # (* Currently signed in to 43 different slack teams)
 
+[//]: # ()
