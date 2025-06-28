@@ -31,8 +31,8 @@ Research Works
 &#9679; Ranked **1/83** in my major   
 &#9679; **First author** of a peer-reviewed conference paper and delivered an **oral presentation** at [***IEEE PHM 2024***](https://2024.globalphm.org/)   
 &#9679; **First author** of an article of the **SCI Q1 journal** [***EAAI (Engineering Application of Artificial Intelligence)***](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)     
-&#9679; Second author of a submitted manuscript to the **SCI Q1 journal** [***MSSP (Mechanical Systems and Signal Processing)***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)    
-&#9679; Second author of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII (Transactions on Industrial Informatics)***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)    
+&#9679; Second author (first author of adviser) of a submitted manuscript to the **SCI Q1 journal** [***MSSP (Mechanical Systems and Signal Processing)***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)    
+&#9679; Second author (first author of adviser) of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII (Transactions on Industrial Informatics)***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)    
 &#9679; Second author of an invention patent (first author of adviser), accepted for **filing**.     
 
 Leadership

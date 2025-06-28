@@ -26,8 +26,8 @@ Publications & Patents
   {% endfor %}</ul>
 
 ### Unpublished
-* Second author of a submitted manuscript to the **SCI Q1 journal** [***MSSP (Mechanical Systems and Signal Processing)***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)    
-* Second author of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII (Transactions on Industrial Informatics)***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)    
+* Second author (first author of adviser) of a submitted manuscript to the **SCI Q1 journal** [***MSSP (Mechanical Systems and Signal Processing)***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)    
+* Second author (first author of adviser) of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII (Transactions on Industrial Informatics)***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)    
 
 ### Patents
 * Second author of an invention patent (first author of adviser), accepted for **filing**.     
