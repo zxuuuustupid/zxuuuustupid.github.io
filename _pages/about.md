@@ -8,7 +8,7 @@ redirect_from:
 ---
 Current
 ----------
-***I am looking for a M.S. position at Tsinghua University!***
+***To the next, to the top.***
 
 
 Short Bio
