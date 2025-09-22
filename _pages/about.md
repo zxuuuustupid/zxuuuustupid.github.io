@@ -34,33 +34,89 @@ Achievements
 ======
 &#9679; **National Scholarship** in 2024 (1.8%)   
 &#9679; Ranked **1/83** in my major   
-&#9679; **First author** of a peer-reviewed conference paper and delivered an **oral presentation** at [***IEEE PHM 2024***](https://2024.globalphm.org/)     
-*Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample*
-![PHM](/images/PHM.png)
 
-&#9679; **First author** of an article of the **SCI Q1 journal** [***EAAI (Engineering Application of Artificial Intelligence)***](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)     
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/PHM.png" alt="PHM" style="width:150px; height:90px; object-fit:cover; margin-right: 15px;"/>
+  <div style="line-height:1.4;">
+    <p style="margin:0; font-weight:bold;">● First author</a> of a peer-reviewed conference paper and delivered an oral presentation at <a href="https://2024.globalphm.org/">IEEE PHM 2024</a></p>
+    <p style="margin:0; font-style:italic;">Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample</p>
+  </div>
+</div>
 
-*Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems*
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/EAAI.png" alt="EAAI" style="width:150px; height:90px; object-fit:cover; margin-right: 15px;"/>
+  <div style="line-height:1.4;">
+    <p style="margin:0; font-weight:bold;">● First author of an article of the SCI Q1 journal <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">EAAI</a></p>
+    <p style="margin:0; font-style:italic;">Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems</p>
+  </div>
+</div>
 
-![EAAI](/images/EAAI.png)
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/CZSL.png" alt="CZSL" style="width:150px; height:90px; object-fit:cover; margin-right: 15px;"/>
+  <div style="line-height:1.4;">
+    <p style="margin:0; font-weight:bold;">● First author of a submitted manuscript to the SCI Q1 journal <a href="https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing">MSSP</a></p>
+    <p style="margin:0; font-style:italic;">Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for unseen-Domain fault Diagnosis</p>
+  </div>
+</div>
 
-&#9679; **First author** of a submitted manuscript to the **SCI Q1 journal** [***MSSP (Mechanical Systems and Signal Processing)***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)    
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/UHDRL.png" alt="UHDRL" style="width:150px; height:90px; object-fit:cover; margin-right: 15px;"/>
+  <div style="line-height:1.4;">
+    <p style="margin:0; font-weight:bold;">● Second author (first author of adviser) of a submitted manuscript to the SCI Q1 journal <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></p>
+    <p style="margin:0; font-style:italic;">Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions</p>
+  </div>
+</div>
 
-*Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for unseen-Domain fault Diagnosis*
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/CLIP.png" alt="CLIP" style="width:150px; height:90px; object-fit:cover; margin-right: 15px;"/>
+  <div style="line-height:1.4;">
+    <p style="margin:0; font-weight:bold;">● Second author (first author of adviser) of a submitted manuscript to the SCI Q1 journal <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></p>
+    <p style="margin:0; font-style:italic;">Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning</p>
+  </div>
+</div>
 
-![CZSL](/images/CZSL.png)
 
-&#9679; Second author (first author of adviser) of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII (Transactions on Industrial Informatics)***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)    
+[//]: # (&#9679; **First author** of a peer-reviewed conference paper and delivered an **oral presentation** at [***IEEE PHM 2024***]&#40;https://2024.globalphm.org/&#41;     )
 
-*Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions*
+[//]: # (*Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample*)
 
-![UHDRL](/images/UHDRL.png)
+[//]: # (![PHM]&#40;/images/PHM.png&#41;)
 
-&#9679; Second author (first author of adviser) of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII (Transactions on Industrial Informatics)***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)    
+[//]: # ()
+[//]: # (&#9679; **First author** of an article of the **SCI Q1 journal** [***EAAI &#40;Engineering Application of Artificial Intelligence&#41;***]&#40;https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence&#41;     )
 
-*Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning*
+[//]: # ()
+[//]: # (*Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems*)
 
-![CLIP](/images/CLIP.png)
+[//]: # ()
+[//]: # (![EAAI]&#40;/images/EAAI.png&#41;)
+
+[//]: # ()
+[//]: # (&#9679; **First author** of a submitted manuscript to the **SCI Q1 journal** [***MSSP &#40;Mechanical Systems and Signal Processing&#41;***]&#40;https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing&#41;    )
+
+[//]: # ()
+[//]: # (*Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for unseen-Domain fault Diagnosis*)
+
+[//]: # ()
+[//]: # (![CZSL]&#40;/images/CZSL.png&#41;)
+
+[//]: # ()
+[//]: # (&#9679; Second author &#40;first author of adviser&#41; of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII &#40;Transactions on Industrial Informatics&#41;***]&#40;https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics&#41;    )
+
+[//]: # ()
+[//]: # (*Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions*)
+
+[//]: # ()
+[//]: # (![UHDRL]&#40;/images/UHDRL.png&#41;)
+
+[//]: # ()
+[//]: # (&#9679; Second author &#40;first author of adviser&#41; of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII &#40;Transactions on Industrial Informatics&#41;***]&#40;https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics&#41;    )
+
+[//]: # ()
+[//]: # (*Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning*)
+
+[//]: # ()
+[//]: # (![CLIP]&#40;/images/CLIP.png&#41;)
 
 &#9679; Second author of an invention patent (first author of adviser), accepted for **filing**.     
 
