@@ -15,7 +15,12 @@ Short Bio
 -----
 I am Zhixu Duan (段之续), an undergraduate at [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now researching in [**Center for System Reliability and Safety, China**](http://relialab.org/).    
 
-**Just a beginner in many areas.** Feel free to ask me about anything you want to know.   I’m currently researching on **fault detection of train tranmission systems with zero-fault sample** and now interested in Large Model (LM) !     
+**Just a beginner in many areas.** Feel free to ask me about anything you want to know.   Research interests include, but are not limited to, zero-shot/few-shot learning, transfer learning, and llm. 
+
+See my github!: [zxuuuustupid](github.com/zxuuuustupid)
+
+![github](/images/github.png)
+
         
 
 Education
@@ -25,14 +30,38 @@ Education
 
 
 
-Research Works
+Achievements
 ======
 &#9679; **National Scholarship** in 2024 (1.8%)   
 &#9679; Ranked **1/83** in my major   
-&#9679; **First author** of a peer-reviewed conference paper and delivered an **oral presentation** at [***IEEE PHM 2024***](https://2024.globalphm.org/)   
+&#9679; **First author** of a peer-reviewed conference paper and delivered an **oral presentation** at [***IEEE PHM 2024***](https://2024.globalphm.org/)     
+*Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample*
+![PHM](/images/PHM.png)
+
 &#9679; **First author** of an article of the **SCI Q1 journal** [***EAAI (Engineering Application of Artificial Intelligence)***](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)     
-&#9679; Second author (first author of adviser) of a submitted manuscript to the **SCI Q1 journal** [***MSSP (Mechanical Systems and Signal Processing)***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)    
+
+*Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems*
+
+![EAAI](/images/EAAI.png)
+
+&#9679; **First author** of a submitted manuscript to the **SCI Q1 journal** [***MSSP (Mechanical Systems and Signal Processing)***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)    
+
+*Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for unseen-Domain fault Diagnosis*
+
+![CZSL](/images/CZSL.png)
+
 &#9679; Second author (first author of adviser) of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII (Transactions on Industrial Informatics)***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)    
+
+*Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions*
+
+![UHDRL](/images/UHDRL.png)
+
+&#9679; Second author (first author of adviser) of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII (Transactions on Industrial Informatics)***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)    
+
+*Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning*
+
+![CLIP](/images/CLIP.png)
+
 &#9679; Second author of an invention patent (first author of adviser), accepted for **filing**.     
 
 Leadership

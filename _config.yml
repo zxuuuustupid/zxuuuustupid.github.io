@@ -46,7 +46,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://steamcommunity.com/profiles/76561199178431200/"
-  kaggle           : "zhixuduan"
+  kaggle           :
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "zhixuduan123"
+  instagram        :
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -67,12 +67,12 @@ author:
   steam            : "zhixuduan"
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "Zhixu256069"
+  twitter          : #"Zhixu256069"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "ZhixuDuan"
+  youtube          :
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
