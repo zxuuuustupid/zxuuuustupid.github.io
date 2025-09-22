@@ -38,7 +38,7 @@ Research Works
 Leadership
 ------
 ### &#9679; Founding core member of UESTC Neuroscience Society.   
-&#9679; Invited Professor [**Dezhong Yao**](https://faculty.uestc.edu.cn/yaodezhong/en/index.htm) (Founding Dean of UESTC's School of Life Science and Technology) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://www.researchgate.net/profile/Pedro-Valdes-Sosa) as advisors        
+&#9679; Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of UESTC's School of Life Science and Technology) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors        
 &#9679; To promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.
   
 

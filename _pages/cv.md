@@ -12,7 +12,7 @@ redirect_from:
 Education & Background
 ======
 * B.S. in [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), 2023
-* RA in [**Center for System Reliability and Safety, China**](http://relialab.org/). advised by [Zuoyi Chen](https://www.researchgate.net/profile/Zuoyi-Chen-3) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang)
+* RA in [**Center for System Reliability and Safety, China**](http://relialab.org/). advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang)
 
 Honors
 ======
@@ -74,7 +74,7 @@ Skills
 Leadership
 ======
 ### Founding core member of UESTC Neuroscience Society.
-* Invited Professor [**Dezhong Yao**](https://faculty.uestc.edu.cn/yaodezhong/en/index.htm) (Founding Dean of UESTC's School of Life Science and Technology) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://www.researchgate.net/profile/Pedro-Valdes-Sosa) as advisors    
+* Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of UESTC's School of Life Science and Technology) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors    
 * to promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.    
 
 
