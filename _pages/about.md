@@ -17,7 +17,7 @@ I am Zhixu Duan (段之续), an undergraduate at [**SMEE**](https://www.smee.ues
 
 **Just a beginner in many areas.** Feel free to ask me about anything you want to know.   Research interests include, but are not limited to, zero-shot/few-shot learning, transfer learning, and llm. 
 
-See my github!: [zxuuuustupid](github.com/zxuuuustupid)
+See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 
 ![github](/images/github.png)
 
