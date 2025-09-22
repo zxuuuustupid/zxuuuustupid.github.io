@@ -36,7 +36,7 @@ Achievements
 &#9679; Ranked **1/83** in my major   
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/PHM.png" alt="PHM" style="width:300px; height:180px; object-fit:cover; margin-right: 15px;"/>
+  <img src="/images/PHM.png" alt="PHM" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
   <div style="line-height:1.4;">
     <p style="margin:0; font-weight:bold;">● First author of a peer-reviewed conference paper and delivered an oral presentation at <a href="https://2024.globalphm.org/">IEEE PHM 2024</a></p>
     <p style="margin:0; font-style:italic;">Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample</p>
@@ -44,7 +44,7 @@ Achievements
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/EAAI.png" alt="EAAI" style="width:300px; height:180px; object-fit:cover; margin-right: 15px;"/>
+  <img src="/images/EAAI.png" alt="EAAI" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
   <div style="line-height:1.4;">
     <p style="margin:0; font-weight:bold;">● First author of an article of the SCI Q1 journal <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">EAAI</a></p>
     <p style="margin:0; font-style:italic;">Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems</p>
@@ -52,7 +52,7 @@ Achievements
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/CZSL.png" alt="CZSL" style="width:300px; height:180px; object-fit:cover; margin-right: 15px;"/>
+  <img src="/images/CZSL.png" alt="CZSL" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
   <div style="line-height:1.4;">
     <p style="margin:0; font-weight:bold;">● First author of a submitted manuscript to the SCI Q1 journal <a href="https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing">MSSP</a></p>
     <p style="margin:0; font-style:italic;">Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for unseen-Domain fault Diagnosis</p>
@@ -60,7 +60,7 @@ Achievements
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/UHDRL.png" alt="UHDRL" style="width:300px; height:180px; object-fit:cover; margin-right: 15px;"/>
+  <img src="/images/UHDRL.png" alt="UHDRL" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
   <div style="line-height:1.4;">
     <p style="margin:0; font-weight:bold;">● Second author (first author of adviser) of a submitted manuscript to the SCI Q1 journal <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></p>
     <p style="margin:0; font-style:italic;">Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions</p>
@@ -68,12 +68,13 @@ Achievements
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/CLIP.png" alt="CLIP" style="width:300px; height:180px; object-fit:cover; margin-right: 15px;"/>
+  <img src="/images/CLIP.png" alt="CLIP" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
   <div style="line-height:1.4;">
     <p style="margin:0; font-weight:bold;">● Second author (first author of adviser) of a submitted manuscript to the SCI Q1 journal <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></p>
     <p style="margin:0; font-style:italic;">Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning</p>
   </div>
 </div>
+
 
 
 [//]: # (&#9679; **First author** of a peer-reviewed conference paper and delivered an **oral presentation** at [***IEEE PHM 2024***]&#40;https://2024.globalphm.org/&#41;     )
