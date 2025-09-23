@@ -1,5 +1,6 @@
 ---
 ---
+
 /*
  * This file controls what is imported from /_sass
  *
@@ -40,14 +41,3 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-
-/* =========================================================
-   自定义字体覆盖 —— 强制全站 Verdana
-   ========================================================= */
-html, body {
-  font-family: Verdana, Geneva, sans-serif !important;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: Verdana, Geneva, sans-serif !important;
-}
