@@ -7,10 +7,6 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-/* 自定义字体覆盖 —— 全站用 Verdana */
-$body-font-family: Verdana, Geneva, sans-serif !default;
-$headings-font-family: Verdana, Geneva, sans-serif !default;
-
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -44,3 +40,14 @@ $headings-font-family: Verdana, Geneva, sans-serif !default;
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* =========================================================
+   自定义字体覆盖 —— 强制全站 Verdana
+   ========================================================= */
+html, body {
+  font-family: Verdana, Geneva, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Verdana, Geneva, sans-serif !important;
+}
