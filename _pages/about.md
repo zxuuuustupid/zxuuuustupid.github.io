@@ -10,7 +10,7 @@ redirect_from:
 ----------
 ***To the next, to the top.***
 
-I made a grave mistake that caused others great suffering. After going through these turbulent times, I will forever cherish the unconditional trust and support that **Yu** has shown me.
+“I made a grave mistake that caused others great suffering. After going through these turbulent times, I will forever cherish the unconditional trust and support that **Yu** has shown me.”
 
 
 🖊Short Bio
