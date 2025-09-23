@@ -6,12 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Current
+🍀Current
 ----------
 ***To the next, to the top.***
 
+I made a grave mistake that caused others great suffering. After going through these turbulent times, I will forever cherish the unconditional trust and support that **Yu** has shown me.
 
-Short Bio
+
+🖊Short Bio
 -----
 I am Zhixu Duan (段之续), an undergraduate at [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now as Research Assistant in [**Center for System Reliability and Safety, China**](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang).    
 
@@ -22,102 +24,137 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 ![github](/images/github.png)
 
         
-
-Education
+🎓Education
 ------
 &#9679; 2023.9--2027.9, B.S. at SMEE of UESTC.   
 &#9679; 2020.9--2023.9, In No.1 Middle School of Huairen, Shanxi Province.
 
 
 
-Achievements
+🏆Achievements
 ======
 &#9679; **National Scholarship** in 2024 (1.8%)   
-&#9679; Ranked **1/83** in my major   
-
+&#9679; Ranked **1/83** in my major🥇   
+&#9679; Papers📃 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/PHM.png" alt="PHM" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
-  <div style="line-height:1.4;">
-    <p style="margin:0; font-weight:bold;">● First author of a peer-reviewed conference paper and delivered an oral presentation at <a href="https://2024.globalphm.org/">IEEE PHM 2024</a></p>
+  <img src="/images/PHM.png" alt="PHM" 
+       style="width:35%; aspect-ratio: 5/3; height:auto; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
+  <div style="line-height:1.4; flex:1;">
+    <p style="margin:0; font-weight:bold;"> 🔥First author of a peer-reviewed conference paper and delivered an oral presentation at <a href="https://2024.globalphm.org/">IEEE PHM 2024</a></p>
     <p style="margin:0; font-style:italic;">Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample</p>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/EAAI.png" alt="EAAI" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
-  <div style="line-height:1.4;">
-    <p style="margin:0; font-weight:bold;">● First author of an article of the SCI Q1 journal <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">EAAI</a></p>
+  <img src="/images/EAAI.png" alt="EAAI" 
+       style="width:35%; aspect-ratio: 5/3; height:auto; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
+  <div style="line-height:1.4; flex:1;">
+    <p style="margin:0; font-weight:bold;">🔥First author of an article of the SCI Q1 journal <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">EAAI</a></p>
     <p style="margin:0; font-style:italic;">Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems</p>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/CZSL.png" alt="CZSL" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
-  <div style="line-height:1.4;">
-    <p style="margin:0; font-weight:bold;">● First author of a submitted manuscript to the SCI Q1 journal <a href="https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing">MSSP</a></p>
+  <img src="/images/CZSL.png" alt="CZSL" 
+       style="width:35%; aspect-ratio: 5/3; height:auto; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
+  <div style="line-height:1.4; flex:1;">
+    <p style="margin:0; font-weight:bold;">🔥First author of a submitted manuscript to the SCI Q1 journal <a href="https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing">MSSP</a></p>
     <p style="margin:0; font-style:italic;">Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for unseen-Domain fault Diagnosis</p>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/UHDRL.png" alt="UHDRL" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
-  <div style="line-height:1.4;">
-    <p style="margin:0; font-weight:bold;">● Second author (first author of adviser) of a submitted manuscript to the SCI Q1 journal <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></p>
+  <img src="/images/UHDRL.png" alt="UHDRL" 
+       style="width:35%; aspect-ratio: 5/3; height:auto; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
+  <div style="line-height:1.4; flex:1;">
+    <p style="margin:0; font-weight:bold;">🔥Second author (first author of adviser) of a submitted manuscript to the SCI Q1 journal <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></p>
     <p style="margin:0; font-style:italic;">Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions</p>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/CLIP.png" alt="CLIP" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
-  <div style="line-height:1.4;">
-    <p style="margin:0; font-weight:bold;">● Second author (first author of adviser) of a submitted manuscript to the SCI Q1 journal <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></p>
+  <img src="/images/CLIP.png" alt="CLIP" 
+       style="width:35%; aspect-ratio: 5/3; height:auto; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
+  <div style="line-height:1.4; flex:1;">
+    <p style="margin:0; font-weight:bold;">🔥Second author (first author of adviser) of a submitted manuscript to the SCI Q1 journal <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></p>
     <p style="margin:0; font-style:italic;">Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning</p>
   </div>
 </div>
 
+[//]: # (<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">)
 
+[//]: # (  <img src="/images/PHM.png" alt="PHM" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba&#40;0,0,0,0.3&#41;;"/>)
 
-[//]: # (&#9679; **First author** of a peer-reviewed conference paper and delivered an **oral presentation** at [***IEEE PHM 2024***]&#40;https://2024.globalphm.org/&#41;     )
+[//]: # (  <div style="line-height:1.4;">)
 
-[//]: # (*Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample*)
+[//]: # (    <p style="margin:0; font-weight:bold;">● First author of a peer-reviewed conference paper and delivered an oral presentation at <a href="https://2024.globalphm.org/">IEEE PHM 2024</a></p>)
 
-[//]: # (![PHM]&#40;/images/PHM.png&#41;)
+[//]: # (    <p style="margin:0; font-style:italic;">Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample</p>)
 
-[//]: # ()
-[//]: # (&#9679; **First author** of an article of the **SCI Q1 journal** [***EAAI &#40;Engineering Application of Artificial Intelligence&#41;***]&#40;https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence&#41;     )
+[//]: # (  </div>)
 
-[//]: # ()
-[//]: # (*Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems*)
-
-[//]: # ()
-[//]: # (![EAAI]&#40;/images/EAAI.png&#41;)
+[//]: # (</div>)
 
 [//]: # ()
-[//]: # (&#9679; **First author** of a submitted manuscript to the **SCI Q1 journal** [***MSSP &#40;Mechanical Systems and Signal Processing&#41;***]&#40;https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing&#41;    )
+[//]: # (<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">)
+
+[//]: # (  <img src="/images/EAAI.png" alt="EAAI" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba&#40;0,0,0,0.3&#41;;"/>)
+
+[//]: # (  <div style="line-height:1.4;">)
+
+[//]: # (    <p style="margin:0; font-weight:bold;">● First author of an article of the SCI Q1 journal <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence">EAAI</a></p>)
+
+[//]: # (    <p style="margin:0; font-style:italic;">Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems</p>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
 
 [//]: # ()
-[//]: # (*Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for unseen-Domain fault Diagnosis*)
+[//]: # (<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">)
+
+[//]: # (  <img src="/images/CZSL.png" alt="CZSL" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba&#40;0,0,0,0.3&#41;;"/>)
+
+[//]: # (  <div style="line-height:1.4;">)
+
+[//]: # (    <p style="margin:0; font-weight:bold;">● First author of a submitted manuscript to the SCI Q1 journal <a href="https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing">MSSP</a></p>)
+
+[//]: # (    <p style="margin:0; font-style:italic;">Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for unseen-Domain fault Diagnosis</p>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
 
 [//]: # ()
-[//]: # (![CZSL]&#40;/images/CZSL.png&#41;)
+[//]: # (<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">)
+
+[//]: # (  <img src="/images/UHDRL.png" alt="UHDRL" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba&#40;0,0,0,0.3&#41;;"/>)
+
+[//]: # (  <div style="line-height:1.4;">)
+
+[//]: # (    <p style="margin:0; font-weight:bold;">● Second author &#40;first author of adviser&#41; of a submitted manuscript to the SCI Q1 journal <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></p>)
+
+[//]: # (    <p style="margin:0; font-style:italic;">Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions</p>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
 
 [//]: # ()
-[//]: # (&#9679; Second author &#40;first author of adviser&#41; of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII &#40;Transactions on Industrial Informatics&#41;***]&#40;https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics&#41;    )
+[//]: # (<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">)
 
-[//]: # ()
-[//]: # (*Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions*)
+[//]: # (  <img src="/images/CLIP.png" alt="CLIP" style="width:300px; height:180px; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba&#40;0,0,0,0.3&#41;;"/>)
 
-[//]: # ()
-[//]: # (![UHDRL]&#40;/images/UHDRL.png&#41;)
+[//]: # (  <div style="line-height:1.4;">)
 
-[//]: # ()
-[//]: # (&#9679; Second author &#40;first author of adviser&#41; of a submitted manuscript to the **SCI Q1 journal** [***IEEE TII &#40;Transactions on Industrial Informatics&#41;***]&#40;https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics&#41;    )
+[//]: # (    <p style="margin:0; font-weight:bold;">● Second author &#40;first author of adviser&#41; of a submitted manuscript to the SCI Q1 journal <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics">IEEE TII</a></p>)
 
-[//]: # ()
-[//]: # (*Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning*)
+[//]: # (    <p style="margin:0; font-style:italic;">Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning</p>)
 
-[//]: # ()
-[//]: # (![CLIP]&#40;/images/CLIP.png&#41;)
+[//]: # (  </div>)
+
+[//]: # (</div>)
+
 
 &#9679; Second author of an invention patent (first author of adviser), accepted for **filing**.     
 
@@ -128,7 +165,7 @@ Leadership
 2.To promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.
   
 ### &#9679; Student Mentor for SMEE 2025 Freshmen    
-Mentored freshmen under the guidance of Counselor **Keyu Chen**
+Mentored freshmen under the guidance of Counselor **Keyu Chen** (⭐The most cheerful and kind-hearted person in the world⭐)
 
 Academic Positions    
 ------
