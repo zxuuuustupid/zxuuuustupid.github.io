@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Zhixu"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Zhixu Duan"
 description              : &description "B.S. at SMEE of UESTC"
@@ -136,7 +136,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
