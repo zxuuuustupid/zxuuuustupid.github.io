@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education & Background
 * B.S. in [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), 2023
-* RA in [**Center for System Reliability and Safety, China**](http://relialab.org/). advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang)
+* RA in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/). advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang)
 
 ## Honors
 * **National Scholarship** in 2024 (1.8%)   

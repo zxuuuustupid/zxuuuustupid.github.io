@@ -23,7 +23,7 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
         
 🎓Education & Background
 ------
-&#9679; *2023.12--Present*, RA at [**Center for System Reliability and Safety, China**](http://relialab.org/). advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang)    
+&#9679; *2023.12--Present*, RA at [**ReliaLab**](http://relialab.org/),[**UESTC**](https://www.uestc.edu.cn/)     
 &#9679; *2023.9--2027.9*, B.S. at SMEE of UESTC.   
 &#9679; *2020.9--2023.9*, In No.1 Middle School of Huairen, Shanxi Province.
 
