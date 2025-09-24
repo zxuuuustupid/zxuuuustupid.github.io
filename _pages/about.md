@@ -34,7 +34,7 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 &#9679; **National Scholarship** in 2024 (1.8%)   
 &#9679; Ranked **1/83** in my major🥇   
 &#9679; Papers📃 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/PHM.png" alt="PHM" 
        style="width:35%; aspect-ratio: 5/3; height:auto; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
   <div style="line-height:1.4; flex:1;">
@@ -43,7 +43,7 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/EAAI.png" alt="EAAI" 
        style="width:35%; aspect-ratio: 5/3; height:auto; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
   <div style="line-height:1.4; flex:1;">
@@ -52,7 +52,7 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/CZSL.png" alt="CZSL" 
        style="width:35%; aspect-ratio: 5/3; height:auto; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
   <div style="line-height:1.4; flex:1;">
@@ -61,7 +61,7 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/UHDRL.png" alt="UHDRL" 
        style="width:35%; aspect-ratio: 5/3; height:auto; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
   <div style="line-height:1.4; flex:1;">
@@ -70,7 +70,7 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/CLIP.png" alt="CLIP" 
        style="width:35%; aspect-ratio: 5/3; height:auto; object-fit:cover; margin-right: 15px; box-shadow:5px 5px 15px rgba(0,0,0,0.3);"/>
   <div style="line-height:1.4; flex:1;">
