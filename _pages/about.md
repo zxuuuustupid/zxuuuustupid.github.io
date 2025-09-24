@@ -12,7 +12,7 @@ redirect_from:
 
 🖊Short Bio
 -----
-I am Zhixu Duan (段之续), an undergraduate at [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now as Research Assistant in [**Center for System Reliability and Safety, China**](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang).    
+I am Zhixu Duan (段之续), an undergraduate at [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now as Research Assistant in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang).    
 
 **Just a beginner in many areas.** Feel free to ask me about anything you want to know.   Research interests include, but are not limited to, zero-shot/few-shot learning, transfer learning, and llm. 
 
