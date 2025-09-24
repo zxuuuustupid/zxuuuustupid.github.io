@@ -169,5 +169,5 @@ Mentored freshmen under the guidance of Counselor **Keyu Chen** (⭐The most che
 
 Academic Positions    
 ------
-&#9679; A key reader of *Nature* and a potential contributor to *Science*.      
-&#9679; Attending major international conferences, and leading the field in tea break self-service acquisition and multimodal collection.     
+&#9679; 😏A key reader of *Nature* and a potential contributor to *Science*.      
+&#9679; 😎Attending major international conferences, and leading the field in tea break self-service acquisition and multimodal collection.     
