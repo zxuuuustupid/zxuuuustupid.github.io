@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Zhx's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 ----------
 ***To the next, to the top.***
 
-“I made a grave mistake that caused others great suffering. After going through these turbulent times, I will forever cherish the unconditional trust and support that **Yu** has shown me.”
+“In *Sept 2025* I made a grave mistake that caused others great suffering. After going through these turbulent times, I will forever cherish the unconditional trust and support that **Yu** has shown me.”
 
 
 🖊Short Bio
@@ -26,8 +26,8 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
         
 🎓Education
 ------
-&#9679; 2023.9--2027.9, B.S. at SMEE of UESTC.   
-&#9679; 2020.9--2023.9, In No.1 Middle School of Huairen, Shanxi Province.
+&#9679; *2023.9--2027.9*, B.S. at SMEE of UESTC.   
+&#9679; *2020.9--2023.9*, In No.1 Middle School of Huairen, Shanxi Province.
 
 
 
