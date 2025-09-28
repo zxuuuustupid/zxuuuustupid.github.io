@@ -18,7 +18,8 @@ Honors
 ------
 * **National Scholarship** in 2024 (1.8%)   
 * Ranked **1/83** in my major   
-
+* **Principal leader** of a **National** Innovation and Entrepreneurship Program (College Student Project)   
+* 
 Publications & Patents
 ------
 ### Published

@@ -19,7 +19,7 @@ I am Zhixu Duan (段之续), an undergraduate at [**SMEE**](https://www.smee.ues
 </div>
 
 
-**Just a beginner in many areas.** Feel free to ask me about anything you want to know.   Research interests focus on AI4Reliability include, but are not limited to, zero-shot/few-shot learning, transfer learning, and llm. 
+**Just a beginner in many areas.** Feel free to ask me about anything you want to know.   Research interests focus on AI4Reliability including but are not limited to zero-shot/few-shot learning, transfer learning, and llm. 
 
 See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 
@@ -31,15 +31,15 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 🎓Education & Background
 ------
 &#9679; *2023.12--Present*, RA at [**ReliaLab**](http://relialab.org/),[**UESTC**](https://www.uestc.edu.cn/)     
-&#9679; *2023.9--2027.9*, B.S. at SMEE of UESTC.   
+&#9679; *2023.9--2027.9*, B.S. at [SMEE](https://www.smee.uestc.edu.cn/) of [UESTC](https://www.uestc.edu.cn/).   
 &#9679; *2020.9--2023.9*, In No.1 Middle School of Huairen, Shanxi Province.
 
 
 
 🏆Achievements
 ------
-&#9679; **National Scholarship** in 2024 (1.8%)   
-&#9679; Ranked **1/83** in my major🥇   
+&#9679; **National Scholarship** in 2024 <span style="background-color: #eaf2f8; color: #3498db; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-weight: bold;">Top 1.8%</span> &nbsp;  
+&#9679; Ranked **1/83** in my major🥇  <span style="background-color: #eafaf1; color: #2ecc71; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-weight: bold;">Top 1</span>   
 &#9679; Papers📃 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/images/PHM.png" alt="PHM" 
@@ -162,11 +162,12 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 
 
 &#9679; Second author of an invention patent (first author of adviser), accepted for **filing**.     
+&#9679; **Principal leader** of a **National** Innovation and Entrepreneurship Program (College Student Project)        
 
 Leadership
 ------
 ### &#9679; Founding core member of UESTC Neuroscience Society.   
-1.Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of UESTC's School of Life Science and Technology) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors        
+1.Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of [UESTC's School of Life Science and Technology](https://www.life.uestc.edu.cn/)) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors        
 2.To promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.
   
 ### &#9679; Student Mentor for SMEE 2025 Freshmen    
