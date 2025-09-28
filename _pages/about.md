@@ -37,7 +37,7 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 
 
 🏆Achievements
-======
+------
 &#9679; **National Scholarship** in 2024 (1.8%)   
 &#9679; Ranked **1/83** in my major🥇   
 &#9679; Papers📃 
