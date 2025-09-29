@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education & Background
-------
+## Education & Background
+
 * B.S. in [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), 2023
 * RA in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/). advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang)
 
-Honors
-------
+## Honors
+
 * **National Scholarship** in 2024 (1.8%)   
 * Ranked **1/83** in my major   
 * **Principal leader** of a **National** Innovation and Entrepreneurship Program (College Student Project)   
-* 
-Publications & Patents
-------
+
+## Publications & Patents
+
 ### Published
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -66,14 +66,14 @@ Publications & Patents
 
 [//]: # (  * Supervisor: Professor Git)
   
-Skills
-------
+## Skills
+
 * Python, Pytorch, Matlab, C, git, Linux
 * Solidworks
 * Power Point, Visio, OriginLab
 
-Leadership
-------
+## Leadership
+
 ### Founding core member of UESTC Neuroscience Society.
 * Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of UESTC's School of Life Science and Technology) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors    
 * to promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.    
