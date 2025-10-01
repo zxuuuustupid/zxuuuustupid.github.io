@@ -14,11 +14,15 @@ redirect_from:
 * B.S. in [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), 2023
 * RA in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/). advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang)
 
+---
+
 ## Honors
 
 * **National Scholarship** in 2024 (1.8%)   
 * Ranked **1/83** in my major   
 * **Principal leader** of a **National** Innovation and Entrepreneurship Program (College Student Project)   
+
+---
 
 ## Publications & Patents
 
@@ -34,7 +38,7 @@ redirect_from:
 ### Patents
 * Second author of an invention patent (first author of adviser), accepted for **filing**.     
 
-
+---
 
 [//]: # (Work experience)
 
@@ -71,6 +75,8 @@ redirect_from:
 * Python, Pytorch, Matlab, C, git, Linux
 * Solidworks
 * Power Point, Visio, OriginLab
+
+---
 
 ## Leadership
 
