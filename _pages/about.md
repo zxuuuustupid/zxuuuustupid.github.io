@@ -10,6 +10,13 @@ redirect_from:
 ----------
 ***To the next, to the top.***
 
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 1em;">
+  <img src="/images/1.jpg" alt="Image 1" style="width: 32%; object-fit: contain; border-radius: 8px;" />
+  <img src="/images/2.jpg" alt="Image 2" style="width: 32%; object-fit: contain; border-radius: 8px;" />
+  <img src="/images/3.jpg" alt="Image 3" style="width: 32%; object-fit: contain; border-radius: 8px;" />
+</div>
+
+
 🖊Short Bio
 -----
 I am Zhixu Duan (段之续), an undergraduate at [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now as Research Assistant in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang).
