@@ -178,7 +178,7 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 
 Leadership
 ------
-### &#9679; Founding core member of UESTC Neuroscience Society.   
+### &#9679; **Reliability Hub Steward** and founding core member of UESTC Neuroscience Society.   
 1.Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of [UESTC's School of Life Science and Technology](https://www.life.uestc.edu.cn/)) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors        
 2.To promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.
   
