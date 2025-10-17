@@ -8,7 +8,11 @@ redirect_from:
 ---
 🍀Motto
 ----------
->***To the next, to the top.***
+>***To the next, to the top.***     
+> *Don’t ever say it’s over if I’m breathing     
+Racing to the moonlight and I’m speeding     
+I’m headed to the stars, ready to go far     
+I’m star walkin’.*    
 
 [//]: # ()
 [//]: # (<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 1em;">)
