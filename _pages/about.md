@@ -58,7 +58,11 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 &#9679; **National Scholarship** in 2024 <span style="background-color: #eaf2f8; color: #3498db; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-weight: bold;">Top 1.8%</span> &nbsp;  
 &#9679; Ranked **1/83** in my major🥇  <span style="background-color: #eafaf1; color: #2ecc71; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-weight: bold;">Top 1</span>   
 &#9679; Research/Papers📃 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PHM 2024</div><img src='/images/PHM.png' alt="PHM" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
+
+
+
+<span style="background-color: #eaf2f8; color: #3498db; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-weight: bold;">IEEE PHM 2024</span> &nbsp;  
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/PHM.png' alt="PHM" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 🔥***Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample***
@@ -71,10 +75,11 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 </div>
 </div>
 
+
+<span style="background-color: #eaf2f8; color: #3498db; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-weight: bold;">EAAI</span> &nbsp;  
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">EAAI</div>
       <img src='/images/EAAI.png' alt="EAAI" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;">
     </div>
   </div>
@@ -89,10 +94,10 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   </div>
 </div>
 
+<span style="background-color: #eaf2f8; color: #3498db; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-weight: bold;">Under Review</span> &nbsp;  
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Under Review</div>
       <img src='/images/CZSL.png' alt="MSSP" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;">
     </div>
   </div>
@@ -106,10 +111,10 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   </div>
 </div>
 
+<span style="background-color: #eaf2f8; color: #3498db; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-weight: bold;">Under Review</span> &nbsp;  
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Under Review</div>
       <img src='/images/UHDRL.png' alt="UHDRL" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;">
     </div>
   </div>
@@ -123,10 +128,10 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   </div>
 </div>
 
+<span style="background-color: #eaf2f8; color: #3498db; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-weight: bold;">Minor Revision</span> &nbsp;  
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Minor Revision</div>
       <img src='/images/CLIP.png' alt="CLIP" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;">
     </div>
   </div>
