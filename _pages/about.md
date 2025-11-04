@@ -9,10 +9,14 @@ redirect_from:
 🍀Motto
 ----------
 >***To the next, to the top.***     
-> *"Don’t ever say it’s over if I’m breathing     
-Racing to the moonlight and I’m speeding     
-I’m headed to the stars, ready to go far     
-I’m star walkin’"*    
+
+[//]: # (> *"Don’t ever say it’s over if I’m breathing     )
+
+[//]: # (Racing to the moonlight and I’m speeding     )
+
+[//]: # (I’m headed to the stars, ready to go far     )
+
+[//]: # (I’m star walkin’"*    )
 
 [//]: # ()
 [//]: # (<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin-bottom: 1em;">)
@@ -224,15 +228,19 @@ Leadership
 2.To promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.
   
 ### &#9679; Student Mentor for SMEE 2025 Freshmen    
-Mentored freshmen under the guidance of Counselor **Keyu Chen** (⭐The most cheerful and kind-hearted person in the world⭐)
+Mentored freshmen under the guidance of Counselor **Keyu Chen** 
+
+[//]: # (&#40;⭐The most cheerful and kind-hearted person in the world⭐&#41;)
 
 Academic Positions    
 ------
 &#9679; 😏A key reader of *Nature* and a potential contributor to *Science*.      
 &#9679; 😎Attending major international conferences, and leading the field in tea break self-service acquisition and multimodal collection.     
 
-☕Life Notes
-------
+[//]: # (☕Life Notes)
 
-*Sept 2025*— I made a grave mistake that caused others great suffering. After going through these turbulent times, I will forever cherish the unconditional trust and support that **Yu** has shown me.
+[//]: # (------)
+
+[//]: # ()
+[//]: # (*Sept 2025*— I made a grave mistake that caused others great suffering. After going through these turbulent times, I will forever cherish the unconditional trust and support that **Yu** has shown me.)
 
