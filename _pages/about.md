@@ -35,6 +35,7 @@ redirect_from:
 I am **Zhixu Duan (段之续)**, an undergraduate at [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now as RA in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang). Also RA in  EPICLab (Efficient and Precision Intelligent Computing Lab), [SAI of SJTU (School of Artificial Intelligence, Shanghai Jiao Tong University)](https://sai.sjtu.edu.cn/),advised by [Linfeng Zhang](http://www.zhanglinfeng.tech/).
 <div align="center" style="margin-bottom: 25px;">
     <img src="/images/relialab1.png" width="80%" alt="relialab">
+    <div style="height: 12px;"></div>
     <img src="/images/sai.png" width="80%" alt="sai">
 </div>
 
