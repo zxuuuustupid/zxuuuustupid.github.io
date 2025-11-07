@@ -32,10 +32,10 @@ redirect_from:
 
 🖊Short Bio
 -----
-I am **Zhixu Duan (段之续)**, an undergraduate at [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now as Research Assistant in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang).
-
+I am **Zhixu Duan (段之续)**, an undergraduate at [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now as RA in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang). Also RA in  EPICLab (Efficient and Precision Intelligent Computing Lab), [SAI of SJTU (School of Artificial Intelligence, Shanghai Jiao Tong University)](https://sai.sjtu.edu.cn/),advised by [Linfeng Zhang](http://www.zhanglinfeng.tech/).
 <div align="center" style="margin-bottom: 25px;">
-    <img src="/images/relialab1.png" width="80%" alt="GitHub 截图">
+    <img src="/images/relialab1.png" width="80%" alt="relialab">
+    <img src="/images/sai.png" width="80%" alt="sai">
 </div>
 
 
@@ -50,6 +50,7 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
         
 🎓Education & Background
 ------
+&#9679; *2025.11--Present*, RA at EPICLab, [**SAI of SJTU**](https://sai.sjtu.edu.cn/)   
 &#9679; *2023.12--Present*, RA at [**ReliaLab**](http://relialab.org/),[**UESTC**](https://www.uestc.edu.cn/)     
 &#9679; *2023.9--2027.9*, B.S. at [SMEE](https://www.smee.uestc.edu.cn/) of [UESTC](https://www.uestc.edu.cn/).   
 &#9679; *2020.9--2023.9*, In No.1 Middle School of Huairen, Shanxi Province.
