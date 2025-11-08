@@ -13,7 +13,7 @@ redirect_from:
 
 * 2023--2027, B.S. in [**SMEE**](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/)   
 * 2023--Present, RA in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/). advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang)    
-* 2025--Present, RA in  EPICLab (Efficient and Precision Intelligent Computing Lab), [SAI of SJTU (School of Artificial Intelligence, Shanghai Jiao Tong University)](https://sai.sjtu.edu.cn/),advised by [Linfeng Zhang](http://www.zhanglinfeng.tech/)
+* 2025--Present, RA in  EPICLab (Efficient and Precision Intelligent Computing Lab), [**SAI of SJTU** (School of Artificial Intelligence, Shanghai Jiao Tong University)](https://sai.sjtu.edu.cn/),advised by [Linfeng Zhang](http://www.zhanglinfeng.tech/)
 
 ---
 
@@ -25,15 +25,13 @@ redirect_from:
 
 ---
 
-## Research   
+## Research
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PHM 2024</div><img src='/images/PHM.png' alt="PHM" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🔥***Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample***
-
-**First author** and delivered an oral presentation to <a href="https://2024.globalphm.org/">IEEE PHM 2024</a></p>
-
-
+🔥***Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample***   
+⭐**First author** and delivered an oral presentation to <a href="https://2024.globalphm.org/">IEEE PHM 2024</a>   
 **TL;DR:** *A PRN model combining RSN and KAN is proposed for train transmission fault detection with few samples, achieving over 98% accuracy and strong generalization.*
 
 </div>
@@ -49,10 +47,8 @@ redirect_from:
   <div class='paper-box-text' markdown="1">   
 
 
-🔥***Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems***
-
-**First author** to [*EAAI*](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)  
-
+🔥***Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems***    
+⭐**First author** published in [*EAAI*](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)    
 **TL;DR:** *A relation network using pseudo-fault data improves train transmission fault detection and localization performance.*
   </div>
 </div>
@@ -66,10 +62,8 @@ redirect_from:
   </div>
   <div class='paper-box-text' markdown="1">
 
-🔥***Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for Unseen-Domain Fault Diagnosis***
-
- **First author** submitted manuscript to [*MSSP*](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)  
-
+🔥***Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for Unseen-Domain Fault Diagnosis***    
+⭐**First author** submitted manuscript to [*MSSP*](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)  
 **TL;DR:** *A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness.*
   </div>
 </div>
@@ -83,10 +77,8 @@ redirect_from:
   </div>
   <div class='paper-box-text' markdown="1">
 
-🔥***Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions***
-
-**Second author (first author of adviser)** submitted manuscript to [*IEEE TII*](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)  
-
+🔥***Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions***    
+⭐**Second author (first author of adviser)** submitted manuscript to [*IEEE TII*](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)  
 **TL;DR:** *A unified health-domain relation learning approach enhances fault detection under complex operating conditions.*
   </div>
 </div>
@@ -100,11 +92,10 @@ redirect_from:
   </div>
   <div class='paper-box-text' markdown="1">
 
-🔥***Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning***
-
-**Second author (first author of adviser)** submitted manuscript to [*COMPUT IND*](https://www.sciencedirect.com/journal/computers-in-industry)  
-
+🔥***Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning***    
+⭐**Second author (first author of adviser)** submitted manuscript to [*COMPUT IND*](https://www.sciencedirect.com/journal/computers-in-industry)  
 **TL;DR:** *A CLIP-based forward–reverse reasoning model enable for fault diagnosis*
+
 
 
 ---   
