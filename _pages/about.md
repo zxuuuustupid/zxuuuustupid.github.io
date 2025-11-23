@@ -225,11 +225,20 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 
 Leadership
 ------
-### &#9679; **Vice President** and founding core member of *[UESTC Interdisciplinary Association (IA)](uestc-ia.github.io)*.   
+### &#9679; **Vice President** and founding core member of *[UESTC Interdisciplinary Association (IA)](https://uestc-ia.github.io/)*.   
 1.Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of [UESTC's School of Life Science and Technology](https://www.life.uestc.edu.cn/)) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors        
 2.To promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.   
-3.Responsible for building and maintaining the association's official website.   
-  
+3.Responsible for building and maintaining the association's [official website](https://uestc-ia.github.io/).   
+
+<div style="width: 85%; margin: 20px auto; display: flex; gap: 10px;">
+    <div style="flex: 1; display: flex;">
+        <img src="/images/ia-flag.png" style="width: 100%; height: auto; object-fit: contain;" alt="ia-flag">
+    </div>
+    <div style="flex: 1; display: flex;">
+        <img src="/images/ia-overview.jpg" style="width: 100%; height: auto; object-fit: contain;" alt="ia-overview">
+    </div>
+</div>
+
 ### &#9679; Student Mentor for SMEE 2025 Freshmen    
 Mentored freshmen under the guidance of Counselor **Keyu Chen** 
 

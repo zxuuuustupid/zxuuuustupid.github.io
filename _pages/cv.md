@@ -156,9 +156,10 @@ redirect_from:
 
 ## Leadership
 
-### **Vice President** and founding core member of *[UESTC Interdisciplinary Association (IA)](uestc-ia.github.io)*.
+### **Vice President** and founding core member of *[UESTC Interdisciplinary Association (IA)](https://uestc-ia.github.io/)*.
 * Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of UESTC's School of Life Science and Technology) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors    
 * to promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.    
+* Responsible for building and maintaining the association's [official website](https://uestc-ia.github.io/).     
 
 ### Student Mentor for SMEE 2025 Freshmen    
 * Mentored freshmen under the guidance of Counselor **Keyu Chen**
