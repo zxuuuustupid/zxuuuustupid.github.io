@@ -1,7 +1,7 @@
 var addressPoints = [
   [
-    "Interview by SMEE of UESTC<br />School of Mechanical and Electrical Engineering, UESTC; UESTC, Chengdu, China",
-    30.7367729,
-    103.9719267
+    "\u3010School Idol\u3011Zhixu Duan: Take Each Step Steadily, and the Distance Will Unfold<br />School of Mechanical and Electrical Engineering of UESTC; Chengdu, China",
+    30.659867,
+    104.063315
   ]
 ];
