@@ -40,7 +40,7 @@ I am **Zhixu Duan (段之续)**, an undergraduate at [**SMEE** (School of Mechan
 </div>
 
 
-**Just a beginner in many areas.** Feel free to ask me about anything you want to know.   Research interests focus on AI4Reliability including but are not limited to zero-shot/few-shot learning, transfer learning, and llm. 
+**Ask me anything!** Always keep a passion for exploring strange fields . Research interests focus on AI4Reliability including but are not limited to zero-shot/few-shot learning, transfer learning, and llm. 
 
 See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 
