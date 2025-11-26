@@ -247,7 +247,7 @@ Mentored freshmen under the guidance of Counselor **Keyu Chen**
 
 Talks & Reports
 ------    
-&#9679; [【SMEE idol】Zhixu Duan:"Take Each Step Steadily, and the Distance Will Unfold"](http://exampleurl.com) *-Interviewed by SMEE of UESTC*
+&#9679; [【SMEE idol】Zhixu Duan:"Take Each Step Steadily, and the Distance Will Unfold"](https://mp.weixin.qq.com/s/ADhuZslqoPZVoshV1WONIw) *-Interviewed by SMEE of UESTC*
 
 Academic Positions    
 ------
