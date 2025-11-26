@@ -235,7 +235,7 @@ Leadership
         <img src="/images/ia-flag.png" style="width: 100%; height: auto; object-fit: contain;" alt="ia-flag">
     </div>
     <div style="flex: 1; display: flex;">
-        <img src="/images/ia-overview.jpg" style="width: 100%; height: auto; object-fit: contain;" alt="ia-overview">
+        <img src="/images/ia-research.png" style="width: 100%; height: auto; object-fit: contain;" alt="ia-overview">
     </div>
 </div>
 
