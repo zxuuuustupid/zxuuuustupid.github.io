@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🍀Motto
-----------
 >***To the next, to the top.***     
 
 [//]: # (> *"Don’t ever say it’s over if I’m breathing     )
@@ -30,8 +28,6 @@ redirect_from:
 [//]: # (</div>)
 
 
-🖊Short Bio
------
 I am **Zhixu Duan (段之续)**, an undergraduate at [**SMEE** (School of Mechanical and Electrical Engineering)](https://www.smee.uestc.edu.cn/) of [**UESTC** (University of Electronic Science and Technology, China)](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now as RA in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang). Also RA in  EPICLab (Efficient and Precision Intelligent Computing Lab), [**SAI of SJTU** (School of Artificial Intelligence, Shanghai Jiao Tong University)](https://sai.sjtu.edu.cn/),advised by [Linfeng Zhang](http://www.zhanglinfeng.tech/).
 <div align="center" style="margin-bottom: 25px;">
     <img src="/images/relialab1.png" width="80%" alt="relialab">
@@ -67,8 +63,8 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PHM 2024</div><img src='/images/PHM.png' alt="PHM" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🔥***Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample***   
-⭐**First author** and delivered an oral presentation to <a href="https://2024.globalphm.org/">IEEE PHM 2024</a>   
+🔥𝐏𝐚𝐫𝐚𝐥𝐥𝐞𝐥 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐰𝐢𝐭𝐡 𝐙𝐞𝐫𝐨-𝐟𝐚𝐮𝐥𝐭 𝐒𝐚𝐦𝐩𝐥𝐞   
+⭐**𝗙𝗶𝗿𝘀𝘁 𝗮𝘂𝘁𝗵𝗼𝗿** and delivered an oral presentation to <a href="https://2024.globalphm.org/">IEEE PHM 2024</a>   
 **TL;DR:** *A PRN model combining RSN and KAN is proposed for train transmission fault detection with few samples, achieving over 98% accuracy and strong generalization.*
 
 </div>
@@ -84,8 +80,8 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   <div class='paper-box-text' markdown="1">   
 
 
-🔥***Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems***    
-⭐**First author** published in [*EAAI*](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)    
+🔥𝐏𝐬𝐞𝐮𝐝𝐨-𝐟𝐚𝐮𝐥𝐭 𝐝𝐚𝐭𝐚 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐟𝐚𝐮𝐥𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐥𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐫𝐚𝐢𝐧 𝐭𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐬𝐲𝐬𝐭𝐞𝐦𝐬   
+⭐**𝗙𝗶𝗿𝘀𝘁 𝗮𝘂𝘁𝗵𝗼𝗿** published in [**𝗘𝗔𝗔𝗜**](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)  **(𝗦𝗖𝗜 𝗤𝟭)**
 **TL;DR:** *A relation network using pseudo-fault data improves train transmission fault detection and localization performance.*
   </div>
 </div>
@@ -99,8 +95,8 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   </div>
   <div class='paper-box-text' markdown="1">
 
-🔥***Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for Unseen-Domain Fault Diagnosis***    
-⭐**First author** submitted manuscript to [*MSSP*](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)  
+🔥𝐃𝐞𝐜𝐨𝐮𝐩𝐥𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐚𝐮𝐥𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐟𝐫𝐨𝐦 𝐃𝐨𝐦𝐚𝐢𝐧 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬 𝐯𝐢𝐚 𝐃𝐨𝐦𝐚𝐢𝐧-𝐀𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐅𝐮𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐔𝐧𝐬𝐞𝐞𝐧-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬   
+⭐**𝗙𝗶𝗿𝘀𝘁 𝗮𝘂𝘁𝗵𝗼𝗿** submitted manuscript to [**𝗠𝗦𝗦𝗣**](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)  **(𝗦𝗖𝗜 𝗤𝟭)**
 **TL;DR:** *A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness.*
   </div>
 </div>
@@ -114,8 +110,8 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   </div>
   <div class='paper-box-text' markdown="1">
 
-🔥***Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions***    
-⭐**Second author (first author of adviser)** submitted manuscript to [*IEEE TII*](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)  
+🔥𝐔𝐧𝐢𝐟𝐢𝐞𝐝 𝐇𝐞𝐚𝐥𝐭𝐡 𝐃𝐨𝐦𝐚𝐢𝐧 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐮𝐧𝐝𝐞𝐫 𝐂𝐨𝐦𝐩𝐥𝐞𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐬    
+⭐**𝗦𝗲𝗰𝗼𝗻𝗱 𝗮𝘂𝘁𝗵𝗼𝗿 (𝗳𝗶𝗿𝘀𝘁 𝗮𝘂𝘁𝗵𝗼𝗿 𝗼𝗳 𝗮𝗱𝘃𝗶𝘀𝗲𝗿)** submitted manuscript to [**𝗜𝗘𝗘𝗘 𝗧𝗜𝗜**](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)   **(𝗦𝗖𝗜 𝗤𝟭)** 
 **TL;DR:** *A unified health-domain relation learning approach enhances fault detection under complex operating conditions.*
   </div>
 </div>
@@ -129,8 +125,8 @@ See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
   </div>
   <div class='paper-box-text' markdown="1">
 
-🔥***Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning***    
-⭐**Second author (first author of adviser)** submitted manuscript to [*COMPUT IND*](https://www.sciencedirect.com/journal/computers-in-industry)  
+🔥𝐎𝐩𝐞𝐧-𝐒𝐞𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐔𝐬𝐢𝐧𝐠 𝐂𝐋𝐈𝐏 𝐰𝐢𝐭𝐡 𝐅𝐨𝐫𝐰𝐚𝐫𝐝-𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐑𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠   
+⭐**𝗦𝗲𝗰𝗼𝗻𝗱 𝗮𝘂𝘁𝗵𝗼𝗿 (𝗳𝗶𝗿𝘀𝘁 𝗮𝘂𝘁𝗵𝗼𝗿 𝗼𝗳 𝗮𝗱𝘃𝗶𝘀𝗲𝗿)** submitted manuscript to [**𝗖𝗢𝗠𝗣𝗨𝗧 𝗜𝗡𝗗**](https://www.sciencedirect.com/journal/computers-in-industry)   **(𝗦𝗖𝗜 𝗤𝟭)** 
 **TL;DR:** *A CLIP-based forward–reverse reasoning model enable for fault diagnosis*
 
 
