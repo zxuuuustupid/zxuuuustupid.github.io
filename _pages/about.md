@@ -29,6 +29,9 @@ redirect_from:
 
 
 I am **Zhixu Duan (段之续)**, an undergraduate at [**SMEE** (School of Mechanical and Electrical Engineering)](https://www.smee.uestc.edu.cn/) of [**UESTC** (University of Electronic Science and Technology, China)](https://www.uestc.edu.cn/), major in **mechanical engineering**. Now as RA in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang). Also RA in  EPICLab (Efficient and Precision Intelligent Computing Lab), [**SAI of SJTU** (School of Artificial Intelligence, Shanghai Jiao Tong University)](https://sai.sjtu.edu.cn/),advised by [Linfeng Zhang](http://www.zhanglinfeng.tech/).
+
+Feel free to **Ask me anything!** Always keep a passion for exploring strange fields . Research interests focus on AI4Reliability including but are not limited to zero-shot/few-shot learning, transfer learning, and llm. 
+
 <div align="center" style="margin-bottom: 25px;">
     <img src="/images/relialab1.png" width="80%" alt="relialab">
     <div style="height: 12px;"></div>
@@ -36,13 +39,13 @@ I am **Zhixu Duan (段之续)**, an undergraduate at [**SMEE** (School of Mechan
 </div>
 
 
-**Ask me anything!** Always keep a passion for exploring strange fields . Research interests focus on AI4Reliability including but are not limited to zero-shot/few-shot learning, transfer learning, and llm. 
 
-See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
+
+<!-- See my github!  [zxuuuustupid](https://github.com/zxuuuustupid)
 
 <div align="center">
     <img src="/images/github.png" width="70%" alt="GitHub">
-</div>
+</div> -->
 
         
 🎓Education & Background
