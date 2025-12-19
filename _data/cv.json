@@ -1,152 +1,136 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Zhixu Duan",
+    "label": "",
+    "email": "zhixuduan@std.uestc.edu.cn",
+    "phone": "15234230092",
+    "website": "https://zxuuuustupid.github.io",
+    "summary": "",
     "location": {
-      "address": "",
+      "address": "UESTC",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Chengdu",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Zhixu Duan",
+        "url": "https://scholar.google.com.hk/citations?user=Xwl4fvMAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "Zhixu Duan",
+        "url": "https://orcid.org/0009-0009-6028-5515"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "zxuuuustupid",
+        "url": "https://github.com/zxuuuustupid"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "EPICLab, SAI of SJTU",
+      "company": "Shanghai Jiao Tong University",
+      "position": "Research Assistant",
+      "startDate": "2025-11",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "ReliaLab, UESTC",
+      "company": "University of Electronic Science and Technology of China",
+      "position": "Research Assistant",
+      "startDate": "2023-12",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Electronic Science and Technology of China (UESTC)",
+      "area": "B.S. in Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2023-09",
+      "endDate": "2027-09",
       "gpa": null,
-      "courses": []
+      "courses": [
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "No.1 Middle School of Huairen",
+      "area": "High School",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2020-09",
+      "endDate": "2023-09",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample",
+      "publisher": "IEEE PHM 2024",
+      "releaseDate": "2024",
+      "website": "https://2024.globalphm.org/",
+      "summary": "First author. Oral presentation. A PRN model combining RSN and KAN is proposed for train transmission fault detection with few samples, achieving over 98% accuracy."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems",
+      "publisher": "Engineering Applications of Artificial Intelligence (EAAI, SCI Q1)",
+      "releaseDate": "2024",
+      "website": "https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence",
+      "summary": "First author. A relation network using pseudo-fault data improves train transmission fault detection and localization performance."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for Unseen-Domain Fault Diagnosis",
+      "publisher": "Submitted to Mechanical Systems and Signal Processing (MSSP, SCI Q1)",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "First author. Under Review. A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions",
+      "publisher": "Submitted to IEEE Transactions on Industrial Informatics (IEEE TII, SCI Q1)",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Second author (first author of adviser). Under Review. A unified health-domain relation learning approach enhances fault detection under complex operating conditions."
+    },
+    {
+      "name": "Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning",
+      "publisher": "Submitted to Computers in Industry (COMPUT IND, SCI Q1)",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Second author (first author of adviser). Minor Revision. A CLIP-based forward–reverse reasoning model enable for fault diagnosis."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Vice President & Founding Core Member, UESTC Interdisciplinary Association (IA)",
+      "institution": "UESTC",
+      "date": "2023",
+      "role": "Leadership",
+      "description": "Invited Prof. Dezhong Yao and Prof. Pedro Antonio Valdes Sosa as advisors; built and maintained the association's official website; promoted outreach and research in bioinformatics, bioimaging, bioelectronics, and AI for Life Science."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Student Mentor for SMEE 2025 Freshmen",
+      "institution": "UESTC",
+      "date": "2025",
+      "role": "Mentor",
+      "description": "Mentored freshmen under the guidance of Counselor Keyu Chen."
     }
+
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
