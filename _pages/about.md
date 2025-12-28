@@ -84,8 +84,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 
 
 🔥𝐏𝐬𝐞𝐮𝐝𝐨-𝐟𝐚𝐮𝐥𝐭 𝐝𝐚𝐭𝐚 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐟𝐚𝐮𝐥𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐥𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐫𝐚𝐢𝐧 𝐭𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐬𝐲𝐬𝐭𝐞𝐦𝐬   
-⭐**First Author** published in [***EAAI***](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)  **(SCI Q1)**
-
+⭐**First Author** published in [***EAAI***](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)  **(SCI Q1)**      
 **TL;DR:** *A relation network using pseudo-fault data improves train transmission fault detection and localization performance.*
   </div>
 </div>
@@ -100,8 +99,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   <div class='paper-box-text' markdown="1">
 
 🔥𝐃𝐞𝐜𝐨𝐮𝐩𝐥𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐚𝐮𝐥𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐟𝐫𝐨𝐦 𝐃𝐨𝐦𝐚𝐢𝐧 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬 𝐯𝐢𝐚 𝐃𝐨𝐦𝐚𝐢𝐧-𝐀𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐅𝐮𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐔𝐧𝐬𝐞𝐞𝐧-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬   
-⭐**First Author** submitted manuscript to [***MSSP***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)  **(SCI Q1)**
-
+⭐**First Author** submitted manuscript to [***MSSP***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)  **(SCI Q1)**     
 **TL;DR:** *A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness.*
   </div>
 </div>
@@ -116,8 +114,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   <div class='paper-box-text' markdown="1">
 
 🔥𝐔𝐧𝐢𝐟𝐢𝐞𝐝 𝐇𝐞𝐚𝐥𝐭𝐡 𝐃𝐨𝐦𝐚𝐢𝐧 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐮𝐧𝐝𝐞𝐫 𝐂𝐨𝐦𝐩𝐥𝐞𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐬    
-⭐**Second Author (first author of adviser)** submitted manuscript to [***IEEE TII***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)   **(SCI Q1)**
-
+⭐**Second Author (first author of adviser)** submitted manuscript to [***IEEE TII***](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics)   **(SCI Q1)**       
 **TL;DR:** *A unified health-domain relation learning approach enhances fault detection under complex operating conditions.*
   </div>
 </div>
@@ -132,8 +129,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   <div class='paper-box-text' markdown="1">
 
 🔥𝐎𝐩𝐞𝐧-𝐒𝐞𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐔𝐬𝐢𝐧𝐠 𝐂𝐋𝐈𝐏 𝐰𝐢𝐭𝐡 𝐅𝐨𝐫𝐰𝐚𝐫𝐝-𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐑𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠   
-⭐**Second Author (first author of adviser)** minor revision of [***COMPUT IND***](https://www.sciencedirect.com/journal/computers-in-industry)   **(SCI Q1)** 
-
+⭐**Second Author (first author of adviser)** minor revision of [***COMPUT IND***](https://www.sciencedirect.com/journal/computers-in-industry)   **(SCI Q1)**        
 **TL;DR:** *A CLIP-based forward–reverse reasoning model enable for fault diagnosis*
 
 
