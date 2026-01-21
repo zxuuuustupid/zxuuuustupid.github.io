@@ -66,6 +66,22 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PHM 2024</div><img src='/images/PHM.png' alt="PHM" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
+🔥𝐏𝐬𝐞𝐮𝐝𝐨-𝐟𝐚𝐮𝐥𝐭 𝐝𝐚𝐭𝐚 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐟𝐚𝐮𝐥𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐥𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐫𝐚𝐢𝐧 𝐭𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐬𝐲𝐬𝐭𝐞𝐦𝐬   
+⭐**First Author** published in [***EAAI***](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)  **(SCI Q1)**      
+**TL;DR:** *A relation network using pseudo-fault data improves train transmission fault detection and localization performance.*
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src='/images/CZSL.png' alt="MSSP" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+
 🔥𝐏𝐚𝐫𝐚𝐥𝐥𝐞𝐥 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐰𝐢𝐭𝐡 𝐙𝐞𝐫𝐨-𝐟𝐚𝐮𝐥𝐭 𝐒𝐚𝐦𝐩𝐥𝐞   
 ⭐**First Author** and delivered an oral presentation to <a href="https://2024.globalphm.org/">IEEE PHM 2024</a>   
 **TL;DR:** *A PRN model combining RSN and KAN is proposed for train transmission fault detection with few samples, achieving over 98% accuracy and strong generalization.*
@@ -83,20 +99,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   <div class='paper-box-text' markdown="1">   
 
 
-🔥𝐏𝐬𝐞𝐮𝐝𝐨-𝐟𝐚𝐮𝐥𝐭 𝐝𝐚𝐭𝐚 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐟𝐚𝐮𝐥𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐥𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐫𝐚𝐢𝐧 𝐭𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐬𝐲𝐬𝐭𝐞𝐦𝐬   
-⭐**First Author** published in [***EAAI***](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)  **(SCI Q1)**      
-**TL;DR:** *A relation network using pseudo-fault data improves train transmission fault detection and localization performance.*
-  </div>
-</div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src='/images/CZSL.png' alt="MSSP" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
 🔥𝐃𝐞𝐜𝐨𝐮𝐩𝐥𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐚𝐮𝐥𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐟𝐫𝐨𝐦 𝐃𝐨𝐦𝐚𝐢𝐧 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬 𝐯𝐢𝐚 𝐃𝐨𝐦𝐚𝐢𝐧-𝐀𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐅𝐮𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐔𝐧𝐬𝐞𝐞𝐧-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬   
 ⭐**First Author** submitted manuscript to [***MSSP***](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)  **(SCI Q1)**     
@@ -225,9 +228,9 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 Leadership
 ------
 ### &#9679; **Vice President** and founding core member of *[UESTC Interdisciplinary Association (IA)](https://uestc-ia.github.io/)*.   
-1.Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of [UESTC's School of Life Science and Technology](https://www.life.uestc.edu.cn/)) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors        
-2.To promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.   
-3.Responsible for building and maintaining the association's [official website](https://uestc-ia.github.io/).   
+1.Responsible for building and maintaining the association's [official website](https://uestc-ia.github.io/) independently.   
+2.Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of [UESTC's School of Life Science and Technology](https://www.life.uestc.edu.cn/)) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors        
+3.To promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.   
 
 <div style="width: 85%; margin: 20px auto; display: flex; gap: 10px;">
     <div style="flex: 1; display: flex;">
