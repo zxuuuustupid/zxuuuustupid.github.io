@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
->***Dye the Sky.***     
+>***More Majestic, More Enthusiastic.***     
 
 [//]: # (> *"Don’t ever say it’s over if I’m breathing     )
 
