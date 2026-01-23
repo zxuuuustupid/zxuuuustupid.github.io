@@ -1,17 +1,18 @@
+
 {
   "basics": {
     "name": "Zhixu Duan",
-    "label": "",
+    "label": "Undergraduate Researcher",
     "email": "zhixuduan@std.uestc.edu.cn",
     "phone": "15234230092",
     "website": "https://zxuuuustupid.github.io",
-    "summary": "",
+    "summary": "Undergraduate at SMEE, UESTC, majoring in Mechanical Engineering (Rank 1/83). Research Assistant at ReliaLab (UESTC) and EPICLab (SJTU). Two-time National Scholarship recipient (Top 1.8%). Passionate about AI4Reliability, zero/few-shot learning, transfer learning, and LLMs. Currently focusing on robust fault diagnosis and industrial code generation.",
     "location": {
       "address": "UESTC",
       "postalCode": "",
       "city": "Chengdu",
       "countryCode": "CN",
-      "region": ""
+      "region": "Sichuan"
     },
     "profiles": [
       {
@@ -38,7 +39,7 @@
       "position": "Research Assistant",
       "startDate": "2025-11",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Advised by Prof. Linfeng Zhang. Focusing on efficient and precision intelligent computing.",
       "highlights": []
     },
     {
@@ -47,7 +48,7 @@
       "position": "Research Assistant",
       "startDate": "2023-12",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Advised by Prof. Zuoyi Chen and Prof. Hong-Zhong Huang. Researching AI for Reliability and Safety.",
       "highlights": []
     }
   ],
@@ -58,9 +59,8 @@
       "studyType": "Bachelor",
       "startDate": "2023-09",
       "endDate": "2027-09",
-      "gpa": null,
-      "courses": [
-      ]
+      "gpa": "Rank 1/83 (Top 1)",
+      "courses": []
     },
     {
       "institution": "No.1 Middle School of Huairen",
@@ -72,12 +72,73 @@
       "courses": []
     }
   ],
-  "skills": [
+  "awards": [
+    {
+      "title": "National Scholarship",
+      "date": "2025",
+      "awarder": "Ministry of Education of China",
+      "summary": "Top 1.8% of students nationwide."
+    },
+    {
+      "title": "National Scholarship",
+      "date": "2024",
+      "awarder": "Ministry of Education of China",
+      "summary": "Top 1.8% of students nationwide."
+    },
+    {
+      "title": "Academic Ranking 1/83",
+      "date": "2023-2025",
+      "awarder": "UESTC",
+      "summary": "Ranked 1st in the major of Mechanical Engineering."
+    }
   ],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "AI4Reliability",
+        "Zero/Few-shot Learning",
+        "Transfer Learning",
+        "Large Language Models (LLM)",
+        "Industrial Code Generation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Academic Positions",
+      "keywords": [
+        "Key reader of Nature",
+        "Potential contributor to Science"
+      ]
+    },
+    {
+      "name": "Conference Activities",
+      "keywords": [
+        "Tea break self-service acquisition",
+        "Multimodal collection"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
+    {
+      "name": "Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems",
+      "publisher": "Engineering Applications of Artificial Intelligence (EAAI, SCI Q1)",
+      "releaseDate": "2024",
+      "website": "https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence",
+      "summary": "First author. A relation network using pseudo-fault data improves train transmission fault detection and localization performance."
+    },
     {
       "name": "Parallel Relation Network for Intelligent Fault Detection and Localization of Train Transmission Systems with Zero-fault Sample",
       "publisher": "IEEE PHM 2024",
@@ -86,11 +147,11 @@
       "summary": "First author. Oral presentation. A PRN model combining RSN and KAN is proposed for train transmission fault detection with few samples, achieving over 98% accuracy."
     },
     {
-      "name": "Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems",
-      "publisher": "Engineering Applications of Artificial Intelligence (EAAI, SCI Q1)",
-      "releaseDate": "2024",
-      "website": "https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence",
-      "summary": "First author. A relation network using pseudo-fault data improves train transmission fault detection and localization performance."
+      "name": "IndustryCode: A Benchmark for Industry Code Generation",
+      "publisher": "Submitted to ICML 2026",
+      "releaseDate": "2025",
+      "website": "https://icml.cc/Conferences/2026",
+      "summary": "Contributor. A Benchmark for LLM to carry Industry Code Generation."
     },
     {
       "name": "Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for Unseen-Domain Fault Diagnosis",
@@ -104,7 +165,7 @@
       "publisher": "Submitted to IEEE Transactions on Industrial Informatics (IEEE TII, SCI Q1)",
       "releaseDate": "2025",
       "website": "",
-      "summary": "Second author (first author of adviser). Under Review. A unified health-domain relation learning approach enhances fault detection under complex operating conditions."
+      "summary": "Co-first Author (first author of adviser). Under Review. A unified health-domain relation learning approach enhances fault detection under complex operating conditions."
     },
     {
       "name": "Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning",
@@ -112,14 +173,36 @@
       "releaseDate": "2025",
       "website": "",
       "summary": "Second author (first author of adviser). Minor Revision. A CLIP-based forward–reverse reasoning model enable for fault diagnosis."
+    },
+    {
+      "name": "Two Invention Patents",
+      "publisher": "CNIPA",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Second author (first author of adviser). Accepted for filing."
     }
   ],
-  "presentations": [],
+  "presentations": [
+    {
+      "name": "Interview: Take Each Step Steadily, and the Distance Will Unfold",
+      "event": "SMEE Idol Interview",
+      "date": "2024",
+      "location": "UESTC",
+      "description": "Interviewed by SMEE of UESTC. Available at: https://mp.weixin.qq.com/s/ADhuZslqoPZVoshV1WONIw"
+    },
+    {
+      "name": "Uni-Lab Developers’ Offline Workshop",
+      "event": "UESTC-IA × DP Technology",
+      "date": "2024",
+      "location": "Chengdu",
+      "description": "Interviewed by DP Technology regarding the collaboration. Available at: https://uestc-ia.github.io/events/uni-lab-news.html"
+    }
+  ],
   "teaching": [
     {
-      "course": "Vice President & Founding Core Member, UESTC Interdisciplinary Association (IA)",
-      "institution": "UESTC",
-      "date": "2023",
+      "course": "Vice President & Founding Core Member",
+      "institution": "UESTC Interdisciplinary Association (IA)",
+      "date": "2023-Present",
       "role": "Leadership",
       "description": "Invited Prof. Dezhong Yao and Prof. Pedro Antonio Valdes Sosa as advisors; built and maintained the association's official website; promoted outreach and research in bioinformatics, bioimaging, bioelectronics, and AI for Life Science."
     },
@@ -130,7 +213,14 @@
       "role": "Mentor",
       "description": "Mentored freshmen under the guidance of Counselor Keyu Chen."
     }
-
   ],
-  "portfolio": []
+  "portfolio": [
+    {
+      "name": "National Innovation and Entrepreneurship Program",
+      "category": "Project",
+      "date": "2024",
+      "url": "",
+      "description": "Principal Leader of a National-level College Student Project."
+    }
+  ]
 }
