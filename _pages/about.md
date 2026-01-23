@@ -208,8 +208,6 @@ Mentored freshmen under the guidance of Counselor **Keyu Chen**
 
 ## Talks & Reports
 
----
-
 &#9679; [【SMEE idol】Zhixu Duan:"Take Each Step Steadily, and the Distance Will Unfold"](https://mp.weixin.qq.com/s/ADhuZslqoPZVoshV1WONIw) _--Interviewed by SMEE of UESTC_
 
 &#9679; [【UESTC-IA×DP Technology】Uni-Lab Developers’ Offline Workshop](https://uestc-ia.github.io/events/uni-lab-news.html) _--Interviewed by [DP Technology](https://www.dp.tech/)_
