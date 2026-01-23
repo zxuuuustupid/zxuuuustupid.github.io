@@ -1,5 +1,49 @@
 {% assign cv = site.data.cv %}
 
+<!-- 新增：强制统一字体的样式 -->
+<style>
+  /* 
+   * 这里使用了你在 _variables.scss 中定义的字体栈 
+   * ("Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", Times, serif)
+   */
+  .cv-container {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, "Times New Roman", Times, serif;
+  }
+
+  /* 强制覆盖内部标题的字体，防止被其他 CSS 重置为 Arial */
+  .cv-container h1, 
+  .cv-container h2, 
+  .cv-container h3, 
+  .cv-container h4, 
+  .cv-container li, 
+  .cv-container p,
+  .cv-container div {
+    font-family: inherit; 
+  }
+  
+  /* 之前的 .archive 样式保留 */
+  .archive {
+    width: 80%;
+    margin: 0 auto;
+    float: none;
+    padding-right: 0;
+  }
+  
+  @media (min-width: 80em) {
+    .archive {
+      width: 70%;
+    }
+  }
+</style>
+
+<div class="cv-container">
+  <div class="cv-section cv-header">
+    <h1>{{ cv.basics.name }}</h1>
+
+<!-- 
+
+{% assign cv = site.data.cv %}
+
 <style>
   .archive {
     width: 80%;
@@ -16,9 +60,8 @@
 </style>
 
 <div class="cv-container">
-  <!-- Basic Information -->
   <div class="cv-section cv-header">
-    <h1>{{ cv.basics.name }}</h1>
+    <h1>{{ cv.basics.name }}</h1> -->
     {% if cv.basics.label %}
     <h2>{{ cv.basics.label }}</h2>
     {% endif %}
