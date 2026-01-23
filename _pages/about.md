@@ -54,7 +54,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   <div class='paper-box-image'>
     <div>
       <div class="badge">EAAI</div>
-      <img src='/images/EAAI.png' alt="EAAI" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;">
+      <img src='/images/EAAI.png' alt="EAAI" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -66,7 +66,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PHM 2024</div><img src='/images/PHM.png' alt="PHM" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PHM 2024</div><img src='/images/PHM.png' alt="PHM" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;"></div></div>
 <div class='paper-box-text' markdown="1">
 🔥𝐏𝐚𝐫𝐚𝐥𝐥𝐞𝐥 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐰𝐢𝐭𝐡 𝐙𝐞𝐫𝐨-𝐟𝐚𝐮𝐥𝐭 𝐒𝐚𝐦𝐩𝐥𝐞   
 ⭐**First Author** and delivered an oral presentation to <a href="https://2024.globalphm.org/">IEEE PHM 2024</a>   
@@ -79,7 +79,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Review</div>
-      <img src='/images/CZSL.png' alt="MSSP" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;">
+      <img src='/images/CZSL.png' alt="MSSP" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -95,7 +95,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Review</div>
-      <img src='/images/UHDRL.png' alt="UHDRL" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;">
+      <img src='/images/UHDRL.png' alt="UHDRL" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -111,7 +111,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   <div class='paper-box-image'>
     <div>
       <div class="badge">Minor Revision</div>
-      <img src='/images/CLIP.png' alt="CLIP" style="width: 100%; height: auto; object-fit: cover; max-height: 200px;">
+      <img src='/images/CLIP.png' alt="CLIP" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -119,6 +119,21 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 🔥𝐎𝐩𝐞𝐧-𝐒𝐞𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐔𝐬𝐢𝐧𝐠 𝐂𝐋𝐈𝐏 𝐰𝐢𝐭𝐡 𝐅𝐨𝐫𝐰𝐚𝐫𝐝-𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐑𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠  
 ⭐**Second Author (first author of adviser)** minor revision of [**_COMPUT IND_**](https://www.sciencedirect.com/journal/computers-in-industry) **(SCI Q1)**  
 **TL;DR:** _A CLIP-based forward–reverse reasoning model enable for fault diagnosis_
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICML Submitted</div>
+      <img src='/images/icml2026.png' alt="ICML" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+🔥𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲𝐂𝐨𝐝𝐞: 𝐀 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐂𝐨𝐝𝐞 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧    
+⭐**Contributor** submited to [**_ICML2026_**](https://icml.cc/Conferences/2026)    
+**TL;DR:** _A Benchmark for LLM to carry Industry Code Generation_
 
 [//]: # '<div style="display: flex; align-items: center; margin-bottom: 20px;">'
 [//]: # '  <img src="/images/PHM.png" alt="PHM" '
@@ -165,7 +180,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 [//]: # "  </div>"
 [//]: # "</div>"
 
-&#9679; Second author of an invention patent (first author of adviser), accepted for **filing**.  
+&#9679; Second author of 2 invention patent (first author of adviser), accepted for **filing**.  
 &#9679; **Principal leader** of a **National** Innovation and Entrepreneurship Program (College Student Project)
 
 ## Leadership
