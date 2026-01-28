@@ -66,6 +66,24 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">SHM</div>
+      <img src='/images/UHDRL.png' alt="UHDRL" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+🔥𝐔𝐧𝐢𝐟𝐢𝐞𝐝 𝐇𝐞𝐚𝐥𝐭𝐡 𝐃𝐨𝐦𝐚𝐢𝐧 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐮𝐧𝐝𝐞𝐫 𝐂𝐨𝐦𝐩𝐥𝐞𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐬  
+⭐**Co-first Author (first author of adviser)** submitted manuscript to [**_SHM_**](https://journals.sagepub.com/home/SHM) **(SCI Q1)**  
+**TL;DR:** _A unified health-domain relation learning approach enhances fault detection under complex operating conditions._
+
+  </div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PHM 2024</div><img src='/images/PHM.png' alt="PHM" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;"></div></div>
 <div class='paper-box-text' markdown="1">
 🔥𝐏𝐚𝐫𝐚𝐥𝐥𝐞𝐥 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐰𝐢𝐭𝐡 𝐙𝐞𝐫𝐨-𝐟𝐚𝐮𝐥𝐭 𝐒𝐚𝐦𝐩𝐥𝐞   
@@ -101,28 +119,14 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
   <div class='paper-box-text' markdown="1">
   
-🔥𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐓𝐞𝐚𝐜𝐡𝐞𝐫-𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐞𝐝 𝐃𝐨𝐦𝐚𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐟𝐨𝐫 𝐂𝐥𝐚𝐬𝐬-𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐢𝐧 𝐌𝐮𝐥𝐭𝐢-𝐃𝐨𝐦𝐚𝐢𝐧 𝐆𝐞𝐧𝐞𝐫𝐚𝐥𝐢𝐳𝐞𝐝 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬
+🔥𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐓𝐞𝐚𝐜𝐡𝐞𝐫-𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐞𝐝 𝐃𝐨𝐦𝐚𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐟𝐨𝐫 𝐂𝐥𝐚𝐬𝐬-𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐢𝐧 𝐌𝐮𝐥𝐭𝐢-𝐃𝐨𝐦𝐚𝐢𝐧 𝐆𝐞𝐧𝐞𝐫𝐚𝐥𝐢𝐳𝐞𝐝 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬    
 ⭐**First Author** submitted manuscript to [**_IEEE TII_**](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics) **(SCI Q1)**    
 **TL;DR:** _Proposed CTSL(Collaborative Teacher-Student Learning): Simulated Domain Attacks for Class-Intrinsic Feature Learning in Multi-Domain Generalized Fault Diagnosis._
 
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src='/images/UHDRL.png' alt="UHDRL" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-🔥𝐔𝐧𝐢𝐟𝐢𝐞𝐝 𝐇𝐞𝐚𝐥𝐭𝐡 𝐃𝐨𝐦𝐚𝐢𝐧 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐮𝐧𝐝𝐞𝐫 𝐂𝐨𝐦𝐩𝐥𝐞𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐬  
-⭐**Co-first Author (first author of adviser)** submitted manuscript to [**_IEEE TII_**](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics) **(SCI Q1)**  
-**TL;DR:** _A unified health-domain relation learning approach enhances fault detection under complex operating conditions._
-
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
