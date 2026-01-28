@@ -77,7 +77,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   <div class='paper-box-text' markdown="1">
 
 🔥𝐔𝐧𝐢𝐟𝐢𝐞𝐝 𝐇𝐞𝐚𝐥𝐭𝐡 𝐃𝐨𝐦𝐚𝐢𝐧 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐮𝐧𝐝𝐞𝐫 𝐂𝐨𝐦𝐩𝐥𝐞𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐬  
-⭐**Co-first Author (first author of adviser)** submitted manuscript to [**_SHM_**](https://journals.sagepub.com/home/SHM) **(SCI Q1)**  
+⭐**Co-first Author (first author of adviser)** published in [**_SHM_**](https://journals.sagepub.com/home/SHM) **(SCI Q1)**  
 **TL;DR:** _A unified health-domain relation learning approach enhances fault detection under complex operating conditions._
 
   </div>
