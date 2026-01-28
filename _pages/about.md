@@ -91,6 +91,23 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src='/images/ctsl.png' alt="CTSL" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+🔥𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐓𝐞𝐚𝐜𝐡𝐞𝐫-𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐞𝐝 𝐃𝐨𝐦𝐚𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐟𝐨𝐫 𝐂𝐥𝐚𝐬𝐬-𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐢𝐧 𝐌𝐮𝐥𝐭𝐢-𝐃𝐨𝐦𝐚𝐢𝐧 𝐆𝐞𝐧𝐞𝐫𝐚𝐥𝐢𝐳𝐞𝐝 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬
+⭐**First Author** submitted manuscript to [**_IEEE TII_**](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics) **(SCI Q1)**    
+**TL;DR:** _Proposed CTSL(Collaborative Teacher-Student Learning): Simulated Domain Attacks for Class-Intrinsic Feature Learning in Multi-Domain Generalized Fault Diagnosis._
+
+  </div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
