@@ -8,150 +8,164 @@ author_profile: true
 {% include base_path %}
 
 <style>
-/* --- 高级卡片样式定义 Start --- */
-.friend-grid {
+/* --- 修复版样式：添加 f- 前缀防止冲突 --- */
+.f-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 30px;
     margin-top: 40px;
 }
 
-.friend-card {
+.f-card {
     background: #fff;
     border-radius: 16px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.05);
     border: 1px solid rgba(0,0,0,0.05);
     overflow: hidden;
-    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-    position: relative;
-    display: flex;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex; /* 确保垂直布局稳定 */
     flex-direction: column;
-    text-decoration: none !important; /* 去除链接下划线 */
+    text-decoration: none !important;
+    position: relative;
+    z-index: 1;
 }
 
-.friend-card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
-    border-color: #3b82f6;
+.f-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.12);
 }
 
-/* 顶部彩色背景条 */
-.card-banner {
-    height: 80px;
-    background: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+.f-banner {
+    height: 90px;
+    background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
 }
 
-/* 头像容器 */
-.card-avatar-container {
+.f-avatar-box {
     width: 100px;
     height: 100px;
-    margin: -50px auto 10px;
+    margin: -50px auto 10px; /* 负边距上移 */
     border-radius: 50%;
     border: 4px solid #fff;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     background: #fff;
+    overflow: hidden;
+    position: relative; /* 确保在最上层 */
+    z-index: 2;
 }
 
-.card-avatar {
+.f-avatar {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
 
-/* 文本内容区 */
-.card-body {
-    padding: 10px 25px 25px;
+.f-body {
+    padding: 10px 25px 30px; /* 底部增加留白 */
     text-align: center;
     color: #333;
+    display: flex;
+    flex-direction: column;
+    gap: 12px; /* 元素间距，防止重叠 */
 }
 
-.card-name {
-    font-size: 1.25rem;
+.f-name {
+    font-size: 1.35rem;
     font-weight: 700;
-    color: #111;
-    margin-bottom: 5px;
+    color: #222;
+    margin: 0;
+    line-height: 1.3;
 }
 
-.card-role {
-    font-size: 0.85rem;
+.f-role {
+    font-size: 0.9rem;
     color: #666;
-    margin-bottom: 15px;
+    margin: 0;
     font-weight: 500;
 }
 
-.card-bio {
-    font-size: 0.9rem;
-    line-height: 1.6;
-    color: #444;
-    margin-bottom: 15px;
-    text-align: left; /* 简介左对齐更易读 */
-}
-
-/* 荣誉标签 */
-.card-badges {
+/* 修复重点：徽章容器独立占行，增加外边距 */
+.f-badges-container {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
     justify-content: center;
-    margin-top: auto;
+    margin: 10px 0 15px 0; /* 上下留出明显空隙 */
+    width: 100%;
 }
 
-.badge {
+.f-badge {
     font-size: 0.75rem;
-    padding: 4px 10px;
-    border-radius: 20px;
+    padding: 5px 12px;
+    border-radius: 50px;
     font-weight: 600;
+    line-height: 1;
+    display: inline-block; /* 破坏浮动，确保占位 */
+    border: 1px solid transparent;
 }
 
-.badge-gold { background: #fff8e1; color: #b7860b; border: 1px solid #ffeeba; } /* 金色：国奖 */
-.badge-blue { background: #e3f2fd; color: #1565c0; border: 1px solid #bbdefb; } /* 蓝色：学术 */
-.badge-green { background: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9; } /* 绿色：GPA */
+.fb-gold { background: #fff8e1; color: #b7860b; border-color: #ffeeba; }
+.fb-blue { background: #e3f2fd; color: #1565c0; border-color: #bbdefb; }
+.fb-green { background: #e8f5e9; color: #2e7d32; border-color: #c8e6c9; }
 
-/* 访问按钮 */
-.visit-btn {
-    margin-top: 15px;
-    display: inline-block;
-    padding: 8px 20px;
+.f-bio {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #444;
+    text-align: left; /* 简介左对齐 */
+    background: #f9fafb; /* 浅灰背景提升层次 */
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.f-btn {
+    margin-top: auto; /* 按钮推到底部 */
+    padding: 10px 0;
+    width: 100%;
     background: #24292e;
     color: #fff !important;
-    border-radius: 6px;
+    border-radius: 8px;
+    font-weight: 600;
     font-size: 0.9rem;
+    text-align: center;
     transition: background 0.2s;
+    display: block;
 }
-.friend-card:hover .visit-btn {
-    background: #3b82f6;
+.f-card:hover .f-btn { background: #0366d6; }
+
+/* 手机端适配 */
+@media (max-width: 600px) {
+    .f-grid { grid-template-columns: 1fr; }
 }
-/* --- 样式结束 --- */
 </style>
 
 Here are links to some of my friends and colleagues.
 
-<div class="friend-grid">
+<div class="f-grid">
 
-    <a href="https://zhangxiyuan2004.github.io/" target="_blank" class="friend-card">
-        <div class="card-banner"></div>
+    <a href="https://zhangxiyuan2004.github.io/" target="_blank" class="f-card">
+        <div class="f-banner"></div>
         
-        <div class="card-avatar-container">
-            <img src="https://github.com/zhangxiyuan2004.png" alt="Shine Yuan" class="card-avatar">
+        <div class="f-avatar-box">
+            <img src="https://github.com/zhangxiyuan2004.png" alt="Shine Yuan" class="f-avatar">
         </div>
         
-        <div class="card-body">
-            <div class="card-name">Shine Yuan (Xiyuan Zhang)</div>
-            <div class="card-role">Incoming Ph.D. @ ZJU-UIUC Institute</div>
+        <div class="f-body">
+            <div class="f-name">Shine Yuan (Xiyuan Zhang)</div>
+            <div class="f-role">Incoming Ph.D. @ ZJU-UIUC Institute</div>
             
-            <div class="card-badges">
-                <span class="badge badge-green">GPA 4.0/4.0</span>
-                <span class="badge badge-gold">National Scholarship ×2</span>
-                <span class="badge badge-blue">UESTC Outstanding</span>
+            <div class="f-badges-container">
+                <span class="f-badge fb-green">GPA 4.0/4.0</span>
+                <span class="f-badge fb-gold">National Scholarship ×2</span>
+                <span class="f-badge fb-blue">UESTC Outstanding</span>
             </div>
 
-            <div class="card-bio">
-                <p>Undergraduate in Electronic Information Engineering at UESTC. Currently an intern at AsiaInfo Technologies. Future Ph.D. candidate supervised by Prof. Bruce Yu & Xinbo Yu.</p>
+            <div class="f-bio">
+                Undergraduate in Electronic Information Engineering at UESTC. Intern at AsiaInfo Technologies. Future Ph.D. candidate supervised by Prof. Bruce Yu & Xinbo Yu.
             </div>
             
-            <div class="visit-btn">Visit Website</div>
+            <span class="f-btn">Visit Website</span>
         </div>
     </a>
 
-    </div>
+</div>
