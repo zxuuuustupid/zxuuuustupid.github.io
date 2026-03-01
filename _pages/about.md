@@ -212,19 +212,28 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 
 ## Leadership
 
-### &#9679; **Vice President** and founding core member of _[UESTC Interdisciplinary Association (IA)](https://uestc-ia.github.io/)_.
-
-1.Responsible for building and maintaining the association's [official website](https://uestc-ia.github.io/) independently.  
-2.Invited Professor [**Dezhong Yao**](https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) (Founding Dean of [UESTC's School of Life Science and Technology](https://www.life.uestc.edu.cn/)) and brain scientist Professor [**Pedro Antonio Valdes Sosa**](https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao) as advisors  
-3.To promote the society's outreach and research activities in fields such as bioinformatics, bioimaging, bioelectronics, and AI for Life Science.
-
-<div style="width: 85%; margin: 20px auto; display: flex; gap: 10px;">
-    <div style="flex: 1; display: flex;">
-        <img src="/images/ia-flag.png" style="width: 100%; height: auto; object-fit: contain;" alt="ia-flag">
+<div style="border-left: 4px solid #4a6cf7; background: #f8f9fc; border-radius: 0 10px 10px 0; padding: 20px 24px; margin: 12px 0 20px 0;">
+  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
+    <span style="font-size: 1.08em; font-weight: 700;">&#9679; Vice President &amp; Founding Core Member</span>
+    <span>
+      <a href="https://github.com/uestc-ia" target="_blank"><img src="https://img.shields.io/badge/GitHub-uestc--ia-181717?logo=github&style=flat-square" alt="GitHub"></a>&nbsp;
+      <a href="https://uestc-ia.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-uestc--ia.github.io-4a6cf7?logo=googlechrome&logoColor=white&style=flat-square" alt="Website"></a>
+    </span>
+  </div>
+  <div style="font-size: 0.97em; line-height: 1.75; margin-bottom: 14px;">
+    <a href="https://uestc-ia.github.io/" style="font-weight: 700; text-decoration: none;"><em>UESTC Interdisciplinary Association (IA)</em></a><br>
+    🌐 Independently designed and maintained the association's <a href="https://uestc-ia.github.io/">official website</a>.<br>
+    🎓 Invited Prof. <a href="https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao"><strong>Dezhong Yao</strong></a> (Founding Dean, School of Life Science and Technology) and brain scientist Prof. <a href="https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao"><strong>Pedro A. Valdes Sosa</strong></a> as advisors.<br>
+    🔬 Promoting interdisciplinary research in bioinformatics, bioimaging, bioelectronics, and AI for Life Science.
+  </div>
+  <div style="display: flex; gap: 10px; width: 88%; margin: 0 auto;">
+    <div style="flex: 1; border-radius: 8px; overflow: hidden;">
+      <img src="/images/ia-flag.png" style="width: 100%; height: auto; display: block;" alt="IA Flag">
     </div>
-    <div style="flex: 1; display: flex;">
-        <img src="/images/ia-research.png" style="width: 100%; height: auto; object-fit: contain;" alt="ia-overview">
+    <div style="flex: 1; border-radius: 8px; overflow: hidden;">
+      <img src="/images/ia-research.png" style="width: 100%; height: auto; display: block;" alt="IA Research">
     </div>
+  </div>
 </div>
 
 ### &#9679; Student Mentor for SMEE 2025 Freshmen
