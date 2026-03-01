@@ -134,7 +134,7 @@
   "publications": [
     {
       "name": "Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems",
-      "publisher": "Engineering Applications of Artificial Intelligence (EAAI, SCI Q1)",
+      "publisher": "Engineering Applications of Artificial Intelligence (EAAI, CAS Q1)",
       "releaseDate": "2025",
       "website": "https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence",
       "summary": "First author. A relation network using pseudo-fault data improves train transmission fault detection and localization performance."
@@ -155,28 +155,28 @@
     },
     {
       "name": "Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for Unseen-Domain Fault Diagnosis",
-      "publisher": "Submitted to Advanced Engineering Informatics (AEI, SCI Q1)",
+      "publisher": "Submitted to Advanced Engineering Informatics (AEI, CAS Q1)",
       "releaseDate": "2025",
       "website": "",
       "summary": "First author. Under Review. A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness."
     },
     {
       "name": "Unified Health Domain Relation Learning for Train Transmission Systems Fault Detection under Complex Operating Conditions",
-      "publisher": "Structural Health Monitoring (SHM, SCI Q1)",
+      "publisher": "Structural Health Monitoring (SHM, CAS Q2)",
       "releaseDate": "2026",
       "website": "",
       "summary": "Co-first Author (first author of adviser). A unified health-domain relation learning approach enhances fault detection under complex operating conditions."
     },
     {
       "name": "Open-Set Fault Diagnosis Using CLIP with Forward-Reverse Reasoning",
-      "publisher": "Submitted to Computers in Industry (COMPUT IND, SCI Q1)",
+      "publisher": "Submitted to Computers in Industry (COMPUT IND, CAS Q1)",
       "releaseDate": "2026",
       "website": "",
       "summary": "Second author (first author of adviser). Minor Revision. A CLIP-based forward–reverse reasoning model enable for fault diagnosis."
     },
     {
       "name": "Collaborative Teacher-Student Learning: Simulated Domain Attacks for Class-Intrinsic Feature Learning in Multi-Domain Generalized Fault Diagnosis",
-      "publisher": "Submitted to IEEE Transactions on Industrial Informatics (IEEE TII, SCI Q1)",
+      "publisher": "Submitted to IEEE Transactions on Industrial Informatics (IEEE TII, CAS Q1)",
       "releaseDate": "2026",
       "website": "",
       "summary": "First author. Under Review. A collaborative teacher-student learning framework enhances multi-domain generalized fault diagnosis."
@@ -184,7 +184,7 @@
 
     {
       "name": "Reinforcing Cross-Domain Few-Shot Fault Diagnosis of Train Transmission Systems via Reducing Intra-Class and Maximizing Inter-Class Variations",
-      "publisher": "Submitted to Advanced Engineering Informatics (AEI, SCI Q1)",
+      "publisher": "Submitted to Advanced Engineering Informatics (AEI, CAS Q1)",
       "releaseDate": "2026",
       "website": "",
       "summary": "Second author. Under Review. A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness."

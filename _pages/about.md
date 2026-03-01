@@ -57,7 +57,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
   <div style="flex: 1; line-height: 1.6;">
     <div style="font-size: 1.05em; margin-bottom: 6px;">🔥𝐏𝐬𝐞𝐮𝐝𝐨-𝐟𝐚𝐮𝐥𝐭 𝐝𝐚𝐭𝐚 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐟𝐚𝐮𝐥𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐥𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐫𝐚𝐢𝐧 𝐭𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐬𝐲𝐬𝐭𝐞𝐦𝐬</div>
-    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐<strong>First Author</strong> published in <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><strong><em>EAAI</em></strong></a> <strong>(SCI Q1)</strong></div>
+    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐<strong>First Author</strong> published in <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><strong><em>EAAI</em></strong></a> <strong>(CAS Q1)</strong></div>
     <div style="font-size: 0.88em; color: #666;"><strong>TL;DR:</strong> <em>A relation network using pseudo-fault data improves train transmission fault detection and localization performance.</em></div>
   </div>
 </div>
@@ -69,7 +69,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
   <div style="flex: 1; line-height: 1.6;">
     <div style="font-size: 1.05em; margin-bottom: 6px;">🔥𝐔𝐧𝐢𝐟𝐢𝐞𝐝 𝐇𝐞𝐚𝐥𝐭𝐡 𝐃𝐨𝐦𝐚𝐢𝐧 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐮𝐧𝐝𝐞𝐫 𝐂𝐨𝐦𝐩𝐥𝐞𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐬</div>
-    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐<strong>Co-first Author (first author of adviser)</strong> published in <a href="https://journals.sagepub.com/home/SHM"><strong><em>SHM</em></strong></a> <strong>(SCI Q1)</strong></div>
+    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐<strong>Co-first Author (first author of adviser)</strong> published in <a href="https://journals.sagepub.com/home/SHM"><strong><em>SHM</em></strong></a> <strong>(CAS Q2)</strong></div>
     <div style="font-size: 0.88em; color: #666;"><strong>TL;DR:</strong> <em>A unified health-domain relation learning approach enhances fault detection under complex operating conditions.</em></div>
   </div>
 </div>
@@ -93,7 +93,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
   <div style="flex: 1; line-height: 1.6;">
     <div style="font-size: 1.05em; margin-bottom: 6px;">🔥𝐃𝐞𝐜𝐨𝐮𝐩𝐥𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐚𝐮𝐥𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐟𝐫𝐨𝐦 𝐃𝐨𝐦𝐚𝐢𝐧 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬 𝐯𝐢𝐚 𝐃𝐨𝐦𝐚𝐢𝐧-𝐀𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐅𝐮𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐔𝐧𝐬𝐞𝐞𝐧-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬</div>
-    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐<strong>First Author</strong> submitted manuscript to <a href="https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing"><strong><em>MSSP</em></strong></a> <strong>(SCI Q1)</strong></div>
+    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐<strong>First Author</strong> submitted manuscript to <a href="https://www.sciencedirect.com/journal/advanced-engineering-informatics"><strong><em>AEI</em></strong></a> <strong>(CAS Q1)</strong></div>
     <div style="font-size: 0.88em; color: #666;"><strong>TL;DR:</strong> <em>A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness.</em></div>
   </div>
 </div>
@@ -105,7 +105,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
   <div style="flex: 1; line-height: 1.6;">
     <div style="font-size: 1.05em; margin-bottom: 6px;">🔥𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐓𝐞𝐚𝐜𝐡𝐞𝐫-𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐞𝐝 𝐃𝐨𝐦𝐚𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐟𝐨𝐫 𝐂𝐥𝐚𝐬𝐬-𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐢𝐧 𝐌𝐮𝐥𝐭𝐢-𝐃𝐨𝐦𝐚𝐢𝐧 𝐆𝐞𝐧𝐞𝐫𝐚𝐥𝐢𝐳𝐞𝐝 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬</div>
-    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐<strong>First Author</strong> submitted manuscript to <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics"><strong><em>IEEE TII</em></strong></a> <strong>(SCI Q1)</strong></div>
+    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐<strong>First Author</strong> submitted manuscript to <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics"><strong><em>IEEE TII</em></strong></a> <strong>(CAS Q1)</strong></div>
     <div style="font-size: 0.88em; color: #666;"><strong>TL;DR:</strong> <em>Proposed CTSL(Collaborative Teacher-Student Learning): Simulated Domain Attacks for Class-Intrinsic Feature Learning in Multi-Domain Generalized Fault Diagnosis.</em></div>
   </div>
 </div>
@@ -117,7 +117,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
   <div style="flex: 1; line-height: 1.6;">
     <div style="font-size: 1.05em; margin-bottom: 6px;">🔥𝐎𝐩𝐞𝐧-𝐒𝐞𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐔𝐬𝐢𝐧𝐠 𝐂𝐋𝐈𝐏 𝐰𝐢𝐭𝐡 𝐅𝐨𝐫𝐰𝐚𝐫𝐝-𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐑𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠</div>
-    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐<strong>Second Author (first author of adviser)</strong> minor revision of <a href="https://www.sciencedirect.com/journal/computers-in-industry"><strong><em>COMPUT IND</em></strong></a> <strong>(SCI Q1)</strong></div>
+    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐<strong>Second Author (first author of adviser)</strong> minor revision of <a href="https://www.sciencedirect.com/journal/computers-in-industry"><strong><em>COMPUT IND</em></strong></a> <strong>(CAS Q1)</strong></div>
     <div style="font-size: 0.88em; color: #666;"><strong>TL;DR:</strong> <em>A CLIP-based forward–reverse reasoning model enable for fault diagnosis</em></div>
   </div>
 </div>
@@ -129,7 +129,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
   <div style="flex: 1; line-height: 1.6;">
     <div style="font-size: 1.05em; margin-bottom: 6px;">🔥𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐢𝐧𝐠 𝐂𝐫𝐨𝐬𝐬-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐞𝐰-𝐒𝐡𝐨𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐯𝐢𝐚 𝐑𝐞𝐝𝐮𝐜𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐚-𝐂𝐥𝐚𝐬𝐬 𝐚𝐧𝐝 𝐌𝐚𝐱𝐢𝐦𝐢𝐳𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫-𝐂𝐥𝐚𝐬𝐬 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬</div>
-    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐Second Author submitted manuscript to <a href="https://www.sciencedirect.com/journal/advanced-engineering-informatics"><strong><em>AEI</em></strong></a> <strong>(SCI Q1)</strong></div>
+    <div style="font-size: 0.95em; margin-bottom: 5px;">⭐Second Author submitted manuscript to <a href="https://www.sciencedirect.com/journal/advanced-engineering-informatics"><strong><em>AEI</em></strong></a> <strong>(CAS Q1)</strong></div>
     <div style="font-size: 0.88em; color: #666;"><strong>TL;DR:</strong> <em>Proposed Reinforcing Cross-Domain Few-Shot Fault Diagnosis of Train Transmission Systems via Reducing Intra-Class and Maximizing Inter-Class Variations</em></div>
   </div>
 </div>
