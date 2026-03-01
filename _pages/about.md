@@ -50,117 +50,101 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 &#9679; Ranked **1/83** in my major🥇 <span style="background-color: #eafaf1; color: #2ecc71; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-weight: bold;">Top 1</span>  
 &#9679; Research/Papers📃
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">EAAI</div>
-      <img src='/images/EAAI.png' alt="EAAI" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
-    </div>
+<div style="display: flex; align-items: stretch; margin-bottom: 22px; gap: 18px;">
+  <div style="flex: 0 0 35%; position: relative;">
+    <span style="position: absolute; top: 8px; left: 8px; background: #e74c3c; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">EAAI</span>
+    <img src='/images/EAAI.png' alt="EAAI" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
-  <div class='paper-box-text' markdown="1">
-
-🔥𝐏𝐬𝐞𝐮𝐝𝐨-𝐟𝐚𝐮𝐥𝐭 𝐝𝐚𝐭𝐚 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐟𝐚𝐮𝐥𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐥𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐫𝐚𝐢𝐧 𝐭𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐬𝐲𝐬𝐭𝐞𝐦𝐬  
-⭐**First Author** published in [**_EAAI_**](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) **(SCI Q1)**  
-**TL;DR:** _A relation network using pseudo-fault data improves train transmission fault detection and localization performance._
-
+  <div style="flex: 1; line-height: 1.65; font-size: 0.96em;">
+    🔥𝐏𝐬𝐞𝐮𝐝𝐨-𝐟𝐚𝐮𝐥𝐭 𝐝𝐚𝐭𝐚 𝐞𝐧𝐡𝐚𝐧𝐜𝐞𝐝 𝐫𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐟𝐚𝐮𝐥𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐥𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐫𝐚𝐢𝐧 𝐭𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐬𝐲𝐬𝐭𝐞𝐦𝐬<br>
+    ⭐<strong>First Author</strong> published in <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><strong><em>EAAI</em></strong></a> <strong>(SCI Q1)</strong><br>
+    <strong>TL;DR:</strong> <em>A relation network using pseudo-fault data improves train transmission fault detection and localization performance.</em>
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">SHM</div>
-      <img src='/images/UHDRL.png' alt="UHDRL" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
-    </div>
+<div style="display: flex; align-items: stretch; margin-bottom: 22px; gap: 18px;">
+  <div style="flex: 0 0 35%; position: relative;">
+    <span style="position: absolute; top: 8px; left: 8px; background: #e74c3c; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">SHM</span>
+    <img src='/images/UHDRL.png' alt="UHDRL" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
-  <div class='paper-box-text' markdown="1">
-
-🔥𝐔𝐧𝐢𝐟𝐢𝐞𝐝 𝐇𝐞𝐚𝐥𝐭𝐡 𝐃𝐨𝐦𝐚𝐢𝐧 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐮𝐧𝐝𝐞𝐫 𝐂𝐨𝐦𝐩𝐥𝐞𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐬  
-⭐**Co-first Author (first author of adviser)** published in [**_SHM_**](https://journals.sagepub.com/home/SHM) **(SCI Q1)**  
-**TL;DR:** _A unified health-domain relation learning approach enhances fault detection under complex operating conditions._
-
+  <div style="flex: 1; line-height: 1.65; font-size: 0.96em;">
+    🔥𝐔𝐧𝐢𝐟𝐢𝐞𝐝 𝐇𝐞𝐚𝐥𝐭𝐡 𝐃𝐨𝐦𝐚𝐢𝐧 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐮𝐧𝐝𝐞𝐫 𝐂𝐨𝐦𝐩𝐥𝐞𝐱 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐬<br>
+    ⭐<strong>Co-first Author (first author of adviser)</strong> published in <a href="https://journals.sagepub.com/home/SHM"><strong><em>SHM</em></strong></a> <strong>(SCI Q1)</strong><br>
+    <strong>TL;DR:</strong> <em>A unified health-domain relation learning approach enhances fault detection under complex operating conditions.</em>
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PHM 2024</div><img src='/images/PHM.png' alt="PHM" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;"></div></div>
-<div class='paper-box-text' markdown="1">
-🔥𝐏𝐚𝐫𝐚𝐥𝐥𝐞𝐥 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐰𝐢𝐭𝐡 𝐙𝐞𝐫𝐨-𝐟𝐚𝐮𝐥𝐭 𝐒𝐚𝐦𝐩𝐥𝐞   
-⭐**First Author** and delivered an oral presentation to <a href="https://2024.globalphm.org/">IEEE PHM 2024</a>   
-**TL;DR:** *A PRN model combining RSN and KAN is proposed for train transmission fault detection with few samples, achieving over 98% accuracy and strong generalization.*
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Minor Revision</div>
-      <img src='/images/CZSL.png' alt="MSSP" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
-    </div>
+<div style="display: flex; align-items: stretch; margin-bottom: 22px; gap: 18px;">
+  <div style="flex: 0 0 35%; position: relative;">
+    <span style="position: absolute; top: 8px; left: 8px; background: #e74c3c; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">IEEE PHM 2024</span>
+    <img src='/images/PHM.png' alt="PHM" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
-  <div class='paper-box-text' markdown="1">
-
-🔥𝐃𝐞𝐜𝐨𝐮𝐩𝐥𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐚𝐮𝐥𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐟𝐫𝐨𝐦 𝐃𝐨𝐦𝐚𝐢𝐧 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬 𝐯𝐢𝐚 𝐃𝐨𝐦𝐚𝐢𝐧-𝐀𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐅𝐮𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐔𝐧𝐬𝐞𝐞𝐧-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬  
-⭐**First Author** submitted manuscript to [**_MSSP_**](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing) **(SCI Q1)**  
-**TL;DR:** _A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness._
-
+  <div style="flex: 1; line-height: 1.65; font-size: 0.96em;">
+    🔥𝐏𝐚𝐫𝐚𝐥𝐥𝐞𝐥 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐰𝐢𝐭𝐡 𝐙𝐞𝐫𝐨-𝐟𝐚𝐮𝐥𝐭 𝐒𝐚𝐦𝐩𝐥𝐞<br>
+    ⭐<strong>First Author</strong> and delivered an oral presentation to <a href="https://2024.globalphm.org/">IEEE PHM 2024</a><br>
+    <strong>TL;DR:</strong> <em>A PRN model combining RSN and KAN is proposed for train transmission fault detection with few samples, achieving over 98% accuracy and strong generalization.</em>
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src='/images/ctsl.png' alt="CTSL" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
-    </div>
+<div style="display: flex; align-items: stretch; margin-bottom: 22px; gap: 18px;">
+  <div style="flex: 0 0 35%; position: relative;">
+    <span style="position: absolute; top: 8px; left: 8px; background: #f39c12; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">Minor Revision</span>
+    <img src='/images/CZSL.png' alt="MSSP" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
-  <div class='paper-box-text' markdown="1">
-  
-🔥𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐓𝐞𝐚𝐜𝐡𝐞𝐫-𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐞𝐝 𝐃𝐨𝐦𝐚𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐟𝐨𝐫 𝐂𝐥𝐚𝐬𝐬-𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐢𝐧 𝐌𝐮𝐥𝐭𝐢-𝐃𝐨𝐦𝐚𝐢𝐧 𝐆𝐞𝐧𝐞𝐫𝐚𝐥𝐢𝐳𝐞𝐝 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬    
-⭐**First Author** submitted manuscript to [**_IEEE TII_**](https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics) **(SCI Q1)**    
-**TL;DR:** _Proposed CTSL(Collaborative Teacher-Student Learning): Simulated Domain Attacks for Class-Intrinsic Feature Learning in Multi-Domain Generalized Fault Diagnosis._
-
+  <div style="flex: 1; line-height: 1.65; font-size: 0.96em;">
+    🔥𝐃𝐞𝐜𝐨𝐮𝐩𝐥𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐚𝐮𝐥𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐟𝐫𝐨𝐦 𝐃𝐨𝐦𝐚𝐢𝐧 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬 𝐯𝐢𝐚 𝐃𝐨𝐦𝐚𝐢𝐧-𝐀𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐅𝐮𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐔𝐧𝐬𝐞𝐞𝐧-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬<br>
+    ⭐<strong>First Author</strong> submitted manuscript to <a href="https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing"><strong><em>MSSP</em></strong></a> <strong>(SCI Q1)</strong><br>
+    <strong>TL;DR:</strong> <em>A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness.</em>
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Minor Revision</div>
-      <img src='/images/CLIP.png' alt="CLIP" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
-    </div>
+<div style="display: flex; align-items: stretch; margin-bottom: 22px; gap: 18px;">
+  <div style="flex: 0 0 35%; position: relative;">
+    <span style="position: absolute; top: 8px; left: 8px; background: #3498db; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">Under Review</span>
+    <img src='/images/ctsl.png' alt="CTSL" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
-  <div class='paper-box-text' markdown="1">
-
-🔥𝐎𝐩𝐞𝐧-𝐒𝐞𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐔𝐬𝐢𝐧𝐠 𝐂𝐋𝐈𝐏 𝐰𝐢𝐭𝐡 𝐅𝐨𝐫𝐰𝐚𝐫𝐝-𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐑𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠  
-⭐**Second Author (first author of adviser)** minor revision of [**_COMPUT IND_**](https://www.sciencedirect.com/journal/computers-in-industry) **(SCI Q1)**  
-**TL;DR:** _A CLIP-based forward–reverse reasoning model enable for fault diagnosis_
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src='/images/bien.png' alt="bien" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
-    </div>
+  <div style="flex: 1; line-height: 1.65; font-size: 0.96em;">
+    🔥𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐯𝐞 𝐓𝐞𝐚𝐜𝐡𝐞𝐫-𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐞𝐝 𝐃𝐨𝐦𝐚𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐟𝐨𝐫 𝐂𝐥𝐚𝐬𝐬-𝐈𝐧𝐭𝐫𝐢𝐧𝐬𝐢𝐜 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐢𝐧 𝐌𝐮𝐥𝐭𝐢-𝐃𝐨𝐦𝐚𝐢𝐧 𝐆𝐞𝐧𝐞𝐫𝐚𝐥𝐢𝐳𝐞𝐝 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬<br>
+    ⭐<strong>First Author</strong> submitted manuscript to <a href="https://www.ieee-ies.org/pubs/transactions-on-industrial-informatics"><strong><em>IEEE TII</em></strong></a> <strong>(SCI Q1)</strong><br>
+    <strong>TL;DR:</strong> <em>Proposed CTSL(Collaborative Teacher-Student Learning): Simulated Domain Attacks for Class-Intrinsic Feature Learning in Multi-Domain Generalized Fault Diagnosis.</em>
   </div>
-  <div class='paper-box-text' markdown="1">
+</div>
 
-🔥𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐢𝐧𝐠 𝐂𝐫𝐨𝐬𝐬-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐞𝐰-𝐒𝐡𝐨𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐯𝐢𝐚 𝐑𝐞𝐝𝐮𝐜𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐚-𝐂𝐥𝐚𝐬𝐬 𝐚𝐧𝐝 𝐌𝐚𝐱𝐢𝐦𝐢𝐳𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫-𝐂𝐥𝐚𝐬𝐬 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬  
-⭐Second Author submitted manuscript to [**_AEI_**](https://www.sciencedirect.com/journal/advanced-engineering-informatics) **(SCI Q1)**  
-**TL;DR:** _Proposed Reinforcing Cross-Domain Few-Shot Fault Diagnosis of Train Transmission Systems via Reducing Intra-Class and Maximizing Inter-Class Variations_
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICML Submitted</div>
-      <img src='/images/icml2026.png' alt="ICML" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
-    </div>
+<div style="display: flex; align-items: stretch; margin-bottom: 22px; gap: 18px;">
+  <div style="flex: 0 0 35%; position: relative;">
+    <span style="position: absolute; top: 8px; left: 8px; background: #f39c12; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">Minor Revision</span>
+    <img src='/images/CLIP.png' alt="CLIP" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
-  <div class='paper-box-text' markdown="1">
+  <div style="flex: 1; line-height: 1.65; font-size: 0.96em;">
+    🔥𝐎𝐩𝐞𝐧-𝐒𝐞𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐔𝐬𝐢𝐧𝐠 𝐂𝐋𝐈𝐏 𝐰𝐢𝐭𝐡 𝐅𝐨𝐫𝐰𝐚𝐫𝐝-𝐑𝐞𝐯𝐞𝐫𝐬𝐞 𝐑𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠<br>
+    ⭐<strong>Second Author (first author of adviser)</strong> minor revision of <a href="https://www.sciencedirect.com/journal/computers-in-industry"><strong><em>COMPUT IND</em></strong></a> <strong>(SCI Q1)</strong><br>
+    <strong>TL;DR:</strong> <em>A CLIP-based forward–reverse reasoning model enable for fault diagnosis</em>
+  </div>
+</div>
 
-🔥𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲𝐂𝐨𝐝𝐞: 𝐀 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐂𝐨𝐝𝐞 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧  
-⭐**Contributor** submited to [**_ICML2026_**](https://icml.cc/Conferences/2026)  
-**TL;DR:** _A Benchmark for LLM to carry Industry Code Generation_
+<div style="display: flex; align-items: stretch; margin-bottom: 22px; gap: 18px;">
+  <div style="flex: 0 0 35%; position: relative;">
+    <span style="position: absolute; top: 8px; left: 8px; background: #3498db; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">Under Review</span>
+    <img src='/images/bien.png' alt="bien" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
+  </div>
+  <div style="flex: 1; line-height: 1.65; font-size: 0.96em;">
+    🔥𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐢𝐧𝐠 𝐂𝐫𝐨𝐬𝐬-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐞𝐰-𝐒𝐡𝐨𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐯𝐢𝐚 𝐑𝐞𝐝𝐮𝐜𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐚-𝐂𝐥𝐚𝐬𝐬 𝐚𝐧𝐝 𝐌𝐚𝐱𝐢𝐦𝐢𝐳𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫-𝐂𝐥𝐚𝐬𝐬 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬<br>
+    ⭐Second Author submitted manuscript to <a href="https://www.sciencedirect.com/journal/advanced-engineering-informatics"><strong><em>AEI</em></strong></a> <strong>(SCI Q1)</strong><br>
+    <strong>TL;DR:</strong> <em>Proposed Reinforcing Cross-Domain Few-Shot Fault Diagnosis of Train Transmission Systems via Reducing Intra-Class and Maximizing Inter-Class Variations</em>
+  </div>
+</div>
+
+<div style="display: flex; align-items: stretch; margin-bottom: 22px; gap: 18px;">
+  <div style="flex: 0 0 35%; position: relative;">
+    <span style="position: absolute; top: 8px; left: 8px; background: #9b59b6; color: #fff; font-size: 0.75em; padding: 2px 10px; border-radius: 4px; font-weight: 600; z-index: 1;">ICML Submitted</span>
+    <img src='/images/icml2026.png' alt="ICML" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
+  </div>
+  <div style="flex: 1; line-height: 1.65; font-size: 0.96em;">
+    🔥𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲𝐂𝐨𝐝𝐞: 𝐀 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐂𝐨𝐝𝐞 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧<br>
+    ⭐<strong>Contributor</strong> submited to <a href="https://icml.cc/Conferences/2026"><strong><em>ICML2026</em></strong></a><br>
+    <strong>TL;DR:</strong> <em>A Benchmark for LLM to carry Industry Code Generation</em>
+  </div>
+</div>
 
 [//]: # '<div style="display: flex; align-items: center; margin-bottom: 20px;">'
 [//]: # '  <img src="/images/PHM.png" alt="PHM" '
@@ -212,7 +196,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 
 ## Leadership
 
-<div style="border-left: 4px solid #4a6cf7; background: #f8f9fc; border-radius: 0 10px 10px 0; padding: 20px 24px; margin: 12px 0 20px 0;">
+<div style="border-left: 4px solid #4a6cf7; background: #f8f9fc; padding: 20px 24px; margin: 12px 0 20px 0;">
   <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
     <span style="font-size: 1.08em; font-weight: 700;">&#9679; Vice President &amp; Founding Core Member</span>
     <span>
@@ -227,10 +211,10 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
     🔬 Promoting interdisciplinary research in bioinformatics, bioimaging, bioelectronics, and AI for Life Science.
   </div>
   <div style="display: flex; gap: 10px; width: 88%; margin: 0 auto;">
-    <div style="flex: 1; border-radius: 8px; overflow: hidden;">
+    <div style="flex: 1; overflow: hidden;">
       <img src="/images/ia-flag.png" style="width: 100%; height: auto; display: block;" alt="IA Flag">
     </div>
-    <div style="flex: 1; border-radius: 8px; overflow: hidden;">
+    <div style="flex: 1; overflow: hidden;">
       <img src="/images/ia-research.png" style="width: 100%; height: auto; display: block;" alt="IA Research">
     </div>
   </div>
