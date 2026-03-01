@@ -51,7 +51,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 &#9679; Research/Papers📃
 
 <div style="display: flex; align-items: stretch; padding-bottom: 20px; margin-bottom: 20px; gap: 18px; border-bottom: 2px solid #eaeaea;">
-  <div style="flex: 0 0 42%; position: relative; min-height: 160px;">
+  <div style="flex: 0 0 42%; position: relative; min-height: 120px;">
     <span style="position: absolute; top: 8px; left: 8px; background: #e74c3c; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">EAAI</span>
     <img src='/images/EAAI.png' alt="EAAI" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
@@ -63,7 +63,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 </div>
 
 <div style="display: flex; align-items: stretch; padding-bottom: 20px; margin-bottom: 20px; gap: 18px; border-bottom: 2px solid #eaeaea;">
-  <div style="flex: 0 0 42%; position: relative; min-height: 160px;">
+  <div style="flex: 0 0 42%; position: relative; min-height: 120px;">
     <span style="position: absolute; top: 8px; left: 8px; background: #e74c3c; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">SHM</span>
     <img src='/images/UHDRL.png' alt="UHDRL" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
@@ -75,7 +75,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 </div>
 
 <div style="display: flex; align-items: stretch; padding-bottom: 20px; margin-bottom: 20px; gap: 18px; border-bottom: 2px solid #eaeaea;">
-  <div style="flex: 0 0 42%; position: relative; min-height: 160px;">
+  <div style="flex: 0 0 42%; position: relative; min-height: 120px;">
     <span style="position: absolute; top: 8px; left: 8px; background: #e74c3c; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">IEEE PHM 2024</span>
     <img src='/images/PHM.png' alt="PHM" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
@@ -87,7 +87,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 </div>
 
 <div style="display: flex; align-items: stretch; padding-bottom: 20px; margin-bottom: 20px; gap: 18px; border-bottom: 2px solid #eaeaea;">
-  <div style="flex: 0 0 42%; position: relative; min-height: 160px;">
+  <div style="flex: 0 0 42%; position: relative; min-height: 120px;">
     <span style="position: absolute; top: 8px; left: 8px; background: #f39c12; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">Minor Revision</span>
     <img src='/images/CZSL.png' alt="MSSP" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
@@ -99,7 +99,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 </div>
 
 <div style="display: flex; align-items: stretch; padding-bottom: 20px; margin-bottom: 20px; gap: 18px; border-bottom: 2px solid #eaeaea;">
-  <div style="flex: 0 0 42%; position: relative; min-height: 160px;">
+  <div style="flex: 0 0 42%; position: relative; min-height: 120px;">
     <span style="position: absolute; top: 8px; left: 8px; background: #3498db; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">Under Review</span>
     <img src='/images/ctsl.png' alt="CTSL" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
@@ -111,7 +111,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 </div>
 
 <div style="display: flex; align-items: stretch; padding-bottom: 20px; margin-bottom: 20px; gap: 18px; border-bottom: 2px solid #eaeaea;">
-  <div style="flex: 0 0 42%; position: relative; min-height: 160px;">
+  <div style="flex: 0 0 42%; position: relative; min-height: 120px;">
     <span style="position: absolute; top: 8px; left: 8px; background: #f39c12; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">Minor Revision</span>
     <img src='/images/CLIP.png' alt="CLIP" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
@@ -123,7 +123,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 </div>
 
 <div style="display: flex; align-items: stretch; padding-bottom: 20px; margin-bottom: 20px; gap: 18px; border-bottom: 2px solid #eaeaea;">
-  <div style="flex: 0 0 42%; position: relative; min-height: 160px;">
+  <div style="flex: 0 0 42%; position: relative; min-height: 120px;">
     <span style="position: absolute; top: 8px; left: 8px; background: #3498db; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">Under Review</span>
     <img src='/images/bien.png' alt="bien" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
@@ -135,7 +135,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 </div>
 
 <div style="display: flex; align-items: stretch; margin-bottom: 20px; gap: 18px;">
-  <div style="flex: 0 0 42%; position: relative; min-height: 160px;">
+  <div style="flex: 0 0 42%; position: relative; min-height: 120px;">
     <span style="position: absolute; top: 8px; left: 8px; background: #9b59b6; color: #fff; font-size: 0.75em; padding: 2px 10px; font-weight: 600; z-index: 1;">ICML Submitted</span>
     <img src='/images/icml2026.png' alt="ICML" style="width: 100%; height: 100%; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
   </div>
