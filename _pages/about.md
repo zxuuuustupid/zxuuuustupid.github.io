@@ -66,7 +66,6 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
 </div>
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -83,7 +82,6 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE PHM 2024</div><img src='/images/PHM.png' alt="PHM" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;"></div></div>
 <div class='paper-box-text' markdown="1">
 🔥𝐏𝐚𝐫𝐚𝐥𝐥𝐞𝐥 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐰𝐢𝐭𝐡 𝐙𝐞𝐫𝐨-𝐟𝐚𝐮𝐥𝐭 𝐒𝐚𝐦𝐩𝐥𝐞   
@@ -96,7 +94,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Under Review</div>
+      <div class="badge">Minor Revision</div>
       <img src='/images/CZSL.png' alt="MSSP" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
     </div>
   </div>
@@ -108,7 +106,6 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 
   </div>
 </div>
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -126,8 +123,6 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
 </div>
 
-
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -141,7 +136,18 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
 ⭐**Second Author (first author of adviser)** minor revision of [**_COMPUT IND_**](https://www.sciencedirect.com/journal/computers-in-industry) **(SCI Q1)**  
 **TL;DR:** _A CLIP-based forward–reverse reasoning model enable for fault diagnosis_
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src='/images/bien.png' alt="bien" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
+🔥𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐢𝐧𝐠 𝐂𝐫𝐨𝐬𝐬-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐞𝐰-𝐒𝐡𝐨𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐯𝐢𝐚 𝐑𝐞𝐝𝐮𝐜𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐚-𝐂𝐥𝐚𝐬𝐬 𝐚𝐧𝐝 𝐌𝐚𝐱𝐢𝐦𝐢𝐳𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫-𝐂𝐥𝐚𝐬𝐬 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬
+⭐Second Author submitted manuscript to [**_AEI_**](https://www.sciencedirect.com/journal/advanced-engineering-informatics) **(SCI Q1)**  
+**TL;DR:** _Proposed Reinforcing Cross-Domain Few-Shot Fault Diagnosis of Train Transmission Systems via Reducing Intra-Class and Maximizing Inter-Class Variations_
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -152,8 +158,8 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
   <div class='paper-box-text' markdown="1">
 
-🔥𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲𝐂𝐨𝐝𝐞: 𝐀 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐂𝐨𝐝𝐞 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧    
-⭐**Contributor** submited to [**_ICML2026_**](https://icml.cc/Conferences/2026)    
+🔥𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲𝐂𝐨𝐝𝐞: 𝐀 𝐁𝐞𝐧𝐜𝐡𝐦𝐚𝐫𝐤 𝐟𝐨𝐫 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐂𝐨𝐝𝐞 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧  
+⭐**Contributor** submited to [**_ICML2026_**](https://icml.cc/Conferences/2026)  
 **TL;DR:** _A Benchmark for LLM to carry Industry Code Generation_
 
 [//]: # '<div style="display: flex; align-items: center; margin-bottom: 20px;">'

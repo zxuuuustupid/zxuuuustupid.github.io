@@ -135,7 +135,7 @@
     {
       "name": "Pseudo-fault data enhanced relation network for fault detection and localization in train transmission systems",
       "publisher": "Engineering Applications of Artificial Intelligence (EAAI, SCI Q1)",
-      "releaseDate": "2024",
+      "releaseDate": "2025",
       "website": "https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence",
       "summary": "First author. A relation network using pseudo-fault data improves train transmission fault detection and localization performance."
     },
@@ -149,13 +149,13 @@
     {
       "name": "IndustryCode: A Benchmark for Industry Code Generation",
       "publisher": "Submitted to ICML 2026",
-      "releaseDate": "2025",
+      "releaseDate": "2026",
       "website": "https://icml.cc/Conferences/2026",
       "summary": "Contributor. A Benchmark for LLM to carry Industry Code Generation."
     },
     {
       "name": "Decoupling Intrinsic Fault Features from Domain Variations via Domain-Attribute Fusion for Unseen-Domain Fault Diagnosis",
-      "publisher": "Submitted to Mechanical Systems and Signal Processing (MSSP, SCI Q1)",
+      "publisher": "Submitted to Advanced Engineering Informatics (AEI, SCI Q1)",
       "releaseDate": "2025",
       "website": "",
       "summary": "First author. Under Review. A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness."
@@ -181,6 +181,15 @@
       "website": "",
       "summary": "First author. Under Review. A collaborative teacher-student learning framework enhances multi-domain generalized fault diagnosis."
     },
+
+    {
+      "name": "Reinforcing Cross-Domain Few-Shot Fault Diagnosis of Train Transmission Systems via Reducing Intra-Class and Maximizing Inter-Class Variations",
+      "publisher": "Submitted to Advanced Engineering Informatics (AEI, SCI Q1)",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Second author. Under Review. A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness."
+    },
+
     {
       "name": "Two Invention Patents",
       "publisher": "CNIPA",
