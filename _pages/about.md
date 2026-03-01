@@ -145,7 +145,7 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
   </div>
   <div class='paper-box-text' markdown="1">
 
-🔥𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐢𝐧𝐠 𝐂𝐫𝐨𝐬𝐬-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐞𝐰-𝐒𝐡𝐨𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐯𝐢𝐚 𝐑𝐞𝐝𝐮𝐜𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐚-𝐂𝐥𝐚𝐬𝐬 𝐚𝐧𝐝 𝐌𝐚𝐱𝐢𝐦𝐢𝐳𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫-𝐂𝐥𝐚𝐬𝐬 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬
+🔥𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐢𝐧𝐠 𝐂𝐫𝐨𝐬𝐬-𝐃𝐨𝐦𝐚𝐢𝐧 𝐅𝐞𝐰-𝐒𝐡𝐨𝐭 𝐅𝐚𝐮𝐥𝐭 𝐃𝐢𝐚𝐠𝐧𝐨𝐬𝐢𝐬 𝐨𝐟 𝐓𝐫𝐚𝐢𝐧 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐯𝐢𝐚 𝐑𝐞𝐝𝐮𝐜𝐢𝐧𝐠 𝐈𝐧𝐭𝐫𝐚-𝐂𝐥𝐚𝐬𝐬 𝐚𝐧𝐝 𝐌𝐚𝐱𝐢𝐦𝐢𝐳𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫-𝐂𝐥𝐚𝐬𝐬 𝐕𝐚𝐫𝐢𝐚𝐭𝐢𝐨𝐧𝐬  
 ⭐Second Author submitted manuscript to [**_AEI_**](https://www.sciencedirect.com/journal/advanced-engineering-informatics) **(SCI Q1)**  
 **TL;DR:** _Proposed Reinforcing Cross-Domain Few-Shot Fault Diagnosis of Train Transmission Systems via Reducing Intra-Class and Maximizing Inter-Class Variations_
 
