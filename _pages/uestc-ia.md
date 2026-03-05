@@ -469,7 +469,7 @@ author_profile: true
 
 
     <!-- Association Flag -->
-    <div style="text-align: center; margin-bottom: 30px;">
+    <div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
         <img src="/images/ia-flag.png" alt="IA Flag" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
     </div>
 
