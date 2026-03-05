@@ -372,6 +372,7 @@ author_profile: true
         <div class="ia-role">Vice President & Founding Core Member</div>
     </div>
 
+
     <!-- Photo Gallery -->
     <h3 class="ia-section-title">Gallery</h3>
     <div class="ia-gallery">
@@ -444,24 +445,7 @@ author_profile: true
         </div>
     </div>
 
-    <!-- Projects -->
-    <h3 class="ia-section-title">Projects & Events</h3>
-    <div class="ia-projects">
-        <div class="ia-project">
-            <span class="icon">🌐</span>
-            <div class="content">
-                <div class="name"><a href="https://uestc-ia.github.io/" target="_blank">Official Website</a></div>
-                <div class="desc">Designed and maintained the association's official portal</div>
-            </div>
-        </div>
-        <div class="ia-project">
-            <span class="icon">🎯</span>
-            <div class="content">
-                <div class="name"><a href="https://uestc-ia.github.io/events/uni-lab.html" target="_blank">Uni-Lab Workshop</a></div>
-                <div class="desc">Co-hosted AI developer workshop with Deep Potential Tech, covering Yibin campus</div>
-            </div>
-        </div>
-    </div>
+
 
     <!-- Partners -->
     <h3 class="ia-section-title">Strategic Partners</h3>
@@ -481,6 +465,31 @@ author_profile: true
         <a href="https://github.com/uestc-ia" target="_blank" class="ia-btn">
             <span>📂</span> GitHub
         </a>
+    </div>
+
+
+    <!-- Association Flag -->
+    <div style="text-align: center; margin-bottom: 30px;">
+        <img src="/images/ia-flag.png" alt="IA Flag" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);" />
+    </div>
+
+    <!-- Projects -->
+    <h3 class="ia-section-title">Projects & Events</h3>
+    <div class="ia-projects">
+        <div class="ia-project">
+            <span class="icon">🌐</span>
+            <div class="content">
+                <div class="name"><a href="https://uestc-ia.github.io/" target="_blank">Official Website</a></div>
+                <div class="desc">Designed and maintained the association's official portal</div>
+            </div>
+        </div>
+        <div class="ia-project">
+            <span class="icon">🎯</span>
+            <div class="content">
+                <div class="name"><a href="https://uestc-ia.github.io/events/uni-lab.html" target="_blank">Uni-Lab Workshop</a></div>
+                <div class="desc">Co-hosted AI developer workshop with Deep Potential Tech, covering Yibin campus</div>
+            </div>
+        </div>
     </div>
 
 </div>

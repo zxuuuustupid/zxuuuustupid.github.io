@@ -201,18 +201,18 @@ Feel free to **Ask me anything!** Always keep a passion for exploring strange fi
     <span style="font-size: 1.08em; font-weight: 700;">&#9679; Vice President &amp; Founding Core Member</span>
     <span>
       <a href="https://github.com/uestc-ia" target="_blank"><img src="https://img.shields.io/badge/GitHub-uestc--ia-181717?logo=github&style=flat-square" alt="GitHub"></a>&nbsp;
-      <a href="https://uestc-ia.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-uestc--ia.github.io-4a6cf7?logo=googlechrome&logoColor=white&style=flat-square" alt="Website"></a>
+      <a href="/uestc-ia/" target="_blank"><img src="https://img.shields.io/badge/Page-UESTC--IA-4a6cf7?logo=googlechrome&logoColor=white&style=flat-square" alt="IA Page"></a>
     </span>
   </div>
   <div style="font-size: 0.97em; line-height: 1.75; margin-bottom: 14px;">
-    <a href="https://uestc-ia.github.io/" style="font-weight: 700; text-decoration: none;"><em>UESTC Interdisciplinary Association (IA)</em></a><br>
+    <a href="/uestc-ia/" style="font-weight: 700; text-decoration: none;"><em>UESTC Interdisciplinary Association (IA)</em></a> — A university-level student organization guided by the Institute of Fundamental and Frontier Sciences, promoting AI-driven interdisciplinary innovation.<br>
     🌐 Independently designed and maintained the association's <a href="https://uestc-ia.github.io/">official website</a>.<br>
-    🎓 Invited Prof. <a href="https://scholar.google.com/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao"><strong>Dezhong Yao</strong></a> (Founding Dean, School of Life Science and Technology) and brain scientist Prof. <a href="https://scholar.google.com/citations?user=0M2PVJIAAAAJ&hl=zh-CN&oi=ao"><strong>Pedro A. Valdes Sosa</strong></a> as advisors.<br>
-    🔬 Promoting interdisciplinary research in bioinformatics, bioimaging, bioelectronics, and AI for Life Science.
+    🎯 Co-hosted the <a href="https://uestc-ia.github.io/events/uni-lab.html">Uni-Lab Workshop</a> with Deep Potential Tech, covering Yibin campus.<br>
+    👥 Built the academic advisory board with 5 renowned professors including Prof. Dezhong Yao and Prof. Pedro Valdes-Sosa.
   </div>
   <div style="display: flex; gap: 10px; width: 88%; margin: 0 auto;">
     <div style="flex: 1; overflow: hidden;">
-      <img src="/images/ia-flag.png" style="width: 100%; height: auto; display: block;" alt="IA Flag">
+      <img src="/images/ia-flag.png" style="width: 100%; height: auto; display: block; border-radius: 8px;" alt="IA Flag">
     </div>
     <div style="flex: 1; overflow: hidden;">
       <img src="/images/ia-research.png" style="width: 100%; height: auto; display: block;" alt="IA Research">
