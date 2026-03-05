@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:uestc-ia.github.io)",
+      "Bash(bundle exec jekyll serve --port 4001)",
+      "Bash(timeout:*)",
+      "Bash(jekyll serve --port 4001)",
+      "Bash(docker build:*)",
+      "Bash(docker run -d -p 4000:4000 --name academicpages academicpages)",
+      "Bash(docker rm:*)",
+      "Bash(docker run:*)",
+      "Bash(docker exec:*)",
+      "Bash(docker restart academicpages)"
+    ]
+  }
+}
