@@ -457,7 +457,7 @@ author_profile: true
         <div class="ia-project">
             <span class="icon">🎯</span>
             <div class="content">
-                <div class="name"><a href="https://uestc-ia.github.io/events/uni-lab/" target="_blank">Uni-Lab Workshop</a></div>
+                <div class="name"><a href="https://uestc-ia.github.io/events/uni-lab.html" target="_blank">Uni-Lab Workshop</a></div>
                 <div class="desc">Co-hosted AI developer workshop with Deep Potential Tech, covering Yibin campus</div>
             </div>
         </div>
