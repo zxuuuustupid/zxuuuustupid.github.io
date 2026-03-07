@@ -9,6 +9,11 @@ redirect_from:
 
 > **_More Majestic, More Enthusiastic._**
 
+
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv-zh.pdf" class="btn btn--info">Download CV as PDF (zh)</a>
+  <a href="{{ base_path }}/files/re-zh.pdf" class="btn btn--success">View Research Experience (zh)</a>
+</div>
 [//]: # '> *"Don’t ever say it’s over if I’m breathing     '
 [//]: # "Racing to the moonlight and I’m speeding     "
 [//]: # "I’m headed to the stars, ready to go far     "
