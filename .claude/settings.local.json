@@ -10,7 +10,12 @@
       "Bash(docker rm:*)",
       "Bash(docker run:*)",
       "Bash(docker exec:*)",
-      "Bash(docker restart academicpages)"
+      "Bash(docker restart academicpages)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(docker-compose down)",
+      "Bash(docker-compose up:*)",
+      "Bash(docker-compose restart:*)"
     ]
   }
 }
