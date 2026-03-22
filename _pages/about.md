@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-> **_More Majestic, More Enthusiastic._**
+<!-- 
+> **_More Majestic, More Enthusiastic._** -->
 
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv-zh.pdf" class="btn btn--info">Download CV as PDF (zh)</a>
-  <a href="{{ base_path }}/files/re-zh.pdf" class="btn btn--success">View Research Experience (zh)</a>
+  <a href="{{ base_path }}/files/cv-zh.pdf" class="btn btn--info">Download CV</a>
+  <a href="{{ base_path }}/files/re-zh.pdf" class="btn btn--success">View Research Experience</a>
 </div>
 [//]: # '> *"Don’t ever say it’s over if I’m breathing     '
 [//]: # "Racing to the moonlight and I’m speeding     "
@@ -25,7 +25,7 @@ redirect_from:
 [//]: # '  <img src="/images/3.jpg" alt="Image 3" style="width: 32%; object-fit: contain; border-radius: 8px;" />'
 [//]: # "</div>"
 
-I am **Zhixu Duan (段之续)**, an undergraduate at [**SMEE** (School of Mechanical and Electrical Engineering)](https://www.smee.uestc.edu.cn/) of [**UESTC** (University of Electronic Science and Technology, China)](https://www.uestc.edu.cn/) &nbsp;<img src='/images/uetsc.png' style='height: 1.2em;'>&nbsp;, major in **mechanical engineering**. Now as RA in [**Center for System Reliability and Safety, China** (ReliaLab)](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang). Also RA in EPICLab (Efficient and Precision Intelligent Computing Lab), [**SAI of SJTU** (School of Artificial Intelligence, Shanghai Jiao Tong University)](https://sai.sjtu.edu.cn/) &nbsp;<img src='/images/sjtu.png' style='height: 1.2em;'>&nbsp;, advised by [Linfeng Zhang](http://www.zhanglinfeng.tech/).
+I am **Zhixu Duan (段之续)**, an undergraduate at [SMEE](https://www.smee.uestc.edu.cn/) of [**UESTC**](https://www.uestc.edu.cn/) &nbsp;<img src='/images/uetsc.png' style='height: 1.2em;'>&nbsp;, major in mechanical engineering. Now as RA in [ReliaLab](http://relialab.org/), advised by [Zuoyi Chen](https://scholar.google.com/citations?user=nffqj1QAAAAJ&hl=zh-CN&oi=ao) and [Hong-Zhong Huang](https://www.researchgate.net/profile/Hong-Zhong-Huang). Also RA in EPICLab, [SAI of SJTU](https://sai.sjtu.edu.cn/) &nbsp;<img src='/images/sjtu.png' style='height: 1.2em;'>&nbsp;, advised by [Linfeng Zhang](http://www.zhanglinfeng.tech/).
 
 Feel free to **Ask me anything!** Always keep a passion for exploring strange fields . Research interests focus on AI4Reliability including but are not limited to zero/few-shot learning, transfer learning, and llm.
 
