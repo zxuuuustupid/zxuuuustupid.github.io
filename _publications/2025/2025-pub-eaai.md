@@ -4,6 +4,7 @@ date:           2025-01-06 00:01:00 +0800
 selected:       true
 pub:            "Engineering Applications of Artificial Intelligence (EAAI, CAS Q1)"
 pub_date:       "2025"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Accepted</span>'
 abstract: >-
   A relation network using pseudo-fault data improves train transmission fault detection and localization performance.
 authors:

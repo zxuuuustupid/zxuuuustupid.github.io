@@ -4,6 +4,7 @@ date:           2026-01-17 00:00:00 +0800
 selected:       true
 pub:            "Advanced Engineering Informatics (AEI, CAS Q1)"
 pub_date:       "2026"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Accepted</span>'
 abstract: >-
   A domain-attribute fusion model decouples intrinsic fault features, improving unseen-domain diagnosis robustness.
 authors:
