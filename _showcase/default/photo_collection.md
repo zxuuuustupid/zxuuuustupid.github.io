@@ -4,6 +4,7 @@ width: 6
 date: 2024-02-01 00:01:00 +0800
 height: 400px
 images:
+- src: assets/images/etc/showcase-feature.jpg
 - src: assets/images/etc/mio.jpeg
   # title: Photo 1
   # desc: Description 1.
