@@ -53,8 +53,9 @@ education:
 #   date: Sep. 2023 - Jul. 2027
 
 experience:
-- name: Shanghai Jiaotong University
+- name: Shanghai Jiao Tong University
   logo: /assets/images/badges/SJTU.png
+  dept: School of Artificial Intelligence (SAI)
   position: Research Intern
   date: Nov. 2025 - Present
 
