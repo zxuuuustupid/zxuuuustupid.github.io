@@ -4,7 +4,7 @@ navbar_name: "Zhixu Duan"
 
 positions:
 - name: Incoming Ph.D. Student (2027)
-- name: Institute of Robotics, School of Mechanical Engineering, SJTU
+- name: Institute of Robotics, School of Mechanical Engineering, Shanghai Jiao Tong University
   logo: /assets/images/badges/SJTU.png  # Logo is optional
 
 
@@ -65,6 +65,8 @@ experience:
   date: Nov. 2025 - Present
 
 awards:
+- name: SMEE Elite Award
+  date: 2025
 - name: National Scholarship
   date: 2025
 - name: National Scholarship
