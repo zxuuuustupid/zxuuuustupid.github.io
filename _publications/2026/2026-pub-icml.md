@@ -2,8 +2,8 @@
 title:          "IndustryCode: A Benchmark for Industry Code Generation"
 date:           2026-01-11 00:01:00 +0800
 selected:       false
-pub:            "Submitted to ICML 2026"
-pub_post:       'Under Review.'
+pub:            "International Conference on Machine Learning (ICML)"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 abstract: >-
   A Benchmark for LLM to carry Industry Code Generation.
